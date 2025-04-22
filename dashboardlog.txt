@@ -1888,3 +1888,7 @@
 2025-04-22 10:44:14.881123 - Changes pushed to GitHub successfully.
 2025-04-22 10:58:03.053492 - Error fetching Columbia fish count: HTTPSConnectionPool(host='www.cbr.washington.edu', port=443): Read timed out. (read timeout=10)
 2025-04-22 10:58:04.572425 - HTML file has been generated successfully.
+2025-04-22 10:58:06.722414 - Changes pushed to GitHub successfully.
+2025-04-22 10:59:51.050979 - Error fetching Willamette data: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-04-22 11:00:17.796041 - Error fetching Columbia fish count: HTTPSConnectionPool(host='www.cbr.washington.edu', port=443): Read timed out. (read timeout=10)
+2025-04-22 11:00:19.308123 - HTML file has been generated successfully.
