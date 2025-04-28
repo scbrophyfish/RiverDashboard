@@ -2573,3 +2573,5 @@
 2025-04-28 11:25:52.635272 - Latest valid Willamette row: {'Project': 'Willamette Falls', 'Date': Timestamp('2025-04-24 00:00:00'), 'Chinook Run': nan, 'Chin': 352.0, 'Chinook 10YearAvg': 244.0, 'JChin': 4.0, 'Jack Chinook 10YearAvg': 7.0, 'Stlhd': 64.0, 'Steelhead 10YearAvg': 46.0, 'WStlhd': nan, 'Wild Steelhead 10YearAvg': nan, 'Sock': nan, 'Sockeye 10YearAvg': nan, 'Coho': nan, 'Coho 10YearAvg': nan, 'JCoho': nan, 'Jack Coho 10YearAvg': nan, 'Shad': nan, 'Shad 10YearAvg': nan, 'Lmpry': nan, 'Lamprey 10YearAvg': nan, 'BTrout': nan, 'Bull Trout 10YearAvg': nan, 'Chum': nan, 'Chum 10YearAvg': nan, 'Pink': nan, 'TempC': nan}
 2025-04-28 11:25:53.217398 - Error fetching Willamette data: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 2025-04-28 11:26:19.347876 - HTML file has been generated successfully.
+2025-04-28 11:26:21.388434 - Changes pushed to GitHub successfully.
+2025-04-28 11:41:34.676936 - HTML file has been generated successfully.
