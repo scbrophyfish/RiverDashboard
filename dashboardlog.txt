@@ -2740,3 +2740,7 @@
 2025-04-29 05:17:47.512560 - HTML file has been generated successfully.
 2025-04-29 05:17:49.624799 - Changes pushed to GitHub successfully.
 2025-04-29 05:32:56.226366 - HTML file has been generated successfully.
+2025-04-29 05:32:58.370119 - Changes pushed to GitHub successfully.
+2025-04-29 05:47:59.886068 - Fish count CSV columns: ['Project', 'Date', 'Chinook Run', 'Chin', 'Chinook 10YearAvg', 'JChin', 'Jack Chinook 10YearAvg', 'Stlhd', 'Steelhead 10YearAvg', 'WStlhd', 'Wild Steelhead 10YearAvg', 'Sock', 'Sockeye 10YearAvg', 'Coho', 'Coho 10YearAvg', 'JCoho', 'Jack Coho 10YearAvg', 'Shad', 'Shad 10YearAvg', 'Lmpry', 'Lamprey 10YearAvg', 'BTrout', 'Bull Trout 10YearAvg', 'Chum', 'Chum 10YearAvg', 'Pink', 'TempC']
+2025-04-29 05:48:09.932342 - Error fetching Willamette fish count: HTTPSConnectionPool(host='www.cbr.washington.edu', port=443): Read timed out. (read timeout=10)
+2025-04-29 05:48:15.176558 - HTML file has been generated successfully.
