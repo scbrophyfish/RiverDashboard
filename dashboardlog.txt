@@ -4986,3 +4986,9 @@
 2025-05-10 00:37:52.479914 - HTML file has been generated successfully.
 2025-05-10 00:37:54.839888 - Changes pushed to GitHub successfully.
 2025-05-10 00:53:00.176385 - HTML file has been generated successfully.
+2025-05-10 00:53:02.525313 - Changes pushed to GitHub successfully.
+2025-05-10 01:08:03.055856 - Error fetching Columbia fish count: Error tokenizing data. C error: Expected 1 fields in line 8, saw 2
+
+2025-05-10 01:08:03.197168 - Error fetching Willamette fish count: Error tokenizing data. C error: Expected 1 fields in line 8, saw 2
+
+2025-05-10 01:08:12.186350 - HTML file has been generated successfully.
