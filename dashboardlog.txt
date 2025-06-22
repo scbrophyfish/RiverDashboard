@@ -12814,3 +12814,10 @@
 2025-06-21 23:47:51.132324 - HTML file has been generated successfully.
 2025-06-21 23:47:53.478957 - Changes pushed to GitHub successfully.
 2025-06-22 00:03:01.930896 - HTML file has been generated successfully.
+2025-06-22 00:03:04.427150 - Changes pushed to GitHub successfully.
+2025-06-22 00:18:38.659099 - Error fetching Willamette data: time-weighted interpolation only works on Series or DataFrames with a DatetimeIndex
+2025-06-22 00:19:53.298559 - Error fetching Willamette data: time-weighted interpolation only works on Series or DataFrames with a DatetimeIndex
+2025-06-22 00:20:07.952767 - Error fetching Willamette data: time-weighted interpolation only works on Series or DataFrames with a DatetimeIndex
+2025-06-22 00:22:05.950729 - Error fetching Willamette data: time-weighted interpolation only works on Series or DataFrames with a DatetimeIndex
+2025-06-22 00:22:18.370426 - Error fetching Willamette data: time-weighted interpolation only works on Series or DataFrames with a DatetimeIndex
+2025-06-22 00:22:30.019026 - Error during HTML generation: 'NoneType' object is not subscriptable
