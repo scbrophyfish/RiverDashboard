@@ -18290,3 +18290,10 @@
 2025-07-27 18:50:16.657628 - HTML file has been generated successfully.
 2025-07-27 18:50:19.065797 - Changes pushed to GitHub successfully.
 2025-07-27 19:05:23.284767 - HTML file has been generated successfully.
+2025-07-27 19:05:25.640230 - Changes pushed to GitHub successfully.
+2025-07-27 19:21:44.015990 - Error fetching Columbia data: Response ended prematurely
+2025-07-27 19:23:10.360093 - Error fetching Columbia data: Response ended prematurely
+2025-07-27 19:24:36.632051 - Error fetching Columbia data: Response ended prematurely
+2025-07-27 19:26:03.014200 - Error fetching Columbia data: Response ended prematurely
+2025-07-27 19:27:29.334040 - Error fetching Columbia data: Response ended prematurely
+2025-07-27 19:27:39.343307 - Error during HTML generation: 'NoneType' object is not subscriptable
