@@ -18625,3 +18625,10 @@
 2025-07-29 02:39:55.951101 - HTML file has been generated successfully.
 2025-07-29 02:39:58.623489 - Changes pushed to GitHub successfully.
 2025-07-29 02:55:03.130081 - HTML file has been generated successfully.
+2025-07-29 02:55:05.639890 - Changes pushed to GitHub successfully.
+2025-07-29 03:10:08.459474 - Fish count CSV columns: ['Project', 'Date', 'Chinook Run', 'Chin', 'Chinook 10YearAvg', 'JChin', 'Jack Chinook 10YearAvg', 'Stlhd', 'Steelhead 10YearAvg', 'WStlhd', 'Wild Steelhead 10YearAvg', 'Sock', 'Sockeye 10YearAvg', 'Coho', 'Coho 10YearAvg', 'JCoho', 'Jack Coho 10YearAvg', 'Shad', 'Shad 10YearAvg', 'Lmpry', 'Lamprey 10YearAvg', 'BTrout', 'Bull Trout 10YearAvg', 'Chum', 'Chum 10YearAvg', 'Pink', 'TempC']
+2025-07-29 03:10:10.367711 - Willamette fish count CSV columns: ['Project', 'Date', 'Chinook Run', 'Chin', 'Chinook 10YearAvg', 'JChin', 'Jack Chinook 10YearAvg', 'Stlhd', 'Steelhead 10YearAvg', 'WStlhd', 'Wild Steelhead 10YearAvg', 'Sock', 'Sockeye 10YearAvg', 'Coho', 'Coho 10YearAvg', 'JCoho', 'Jack Coho 10YearAvg', 'Shad', 'Shad 10YearAvg', 'Lmpry', 'Lamprey 10YearAvg', 'BTrout', 'Bull Trout 10YearAvg', 'Chum', 'Chum 10YearAvg', 'Pink', 'TempC']
+2025-07-29 03:10:10.367711 - Latest valid Willamette row: {'Project': 'Willamette Falls', 'Date': Timestamp('2025-07-23 00:00:00'), 'Chinook Run': nan, 'Chin': 7.0, 'Chinook 10YearAvg': 38.0, 'JChin': nan, 'Jack Chinook 10YearAvg': 3.0, 'Stlhd': nan, 'Steelhead 10YearAvg': 11.0, 'WStlhd': nan, 'Wild Steelhead 10YearAvg': nan, 'Sock': nan, 'Sockeye 10YearAvg': nan, 'Coho': nan, 'Coho 10YearAvg': nan, 'JCoho': nan, 'Jack Coho 10YearAvg': nan, 'Shad': nan, 'Shad 10YearAvg': nan, 'Lmpry': nan, 'Lamprey 10YearAvg': nan, 'BTrout': nan, 'Bull Trout 10YearAvg': nan, 'Chum': nan, 'Chum 10YearAvg': nan, 'Pink': nan, 'TempC': nan}
+2025-07-29 03:11:28.925203 - Error fetching Columbia data: Response ended prematurely
+2025-07-29 03:12:55.228021 - Error fetching Columbia data: Response ended prematurely
+2025-07-29 03:13:08.818882 - HTML file has been generated successfully.
