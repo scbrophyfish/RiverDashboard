@@ -19229,3 +19229,7 @@
 2025-07-31 16:19:31.100348 - Willamette fish count CSV columns: ['Project', 'Date', 'Chinook Run', 'Chin', 'Chinook 10YearAvg', 'JChin', 'Jack Chinook 10YearAvg', 'Stlhd', 'Steelhead 10YearAvg', 'WStlhd', 'Wild Steelhead 10YearAvg', 'Sock', 'Sockeye 10YearAvg', 'Coho', 'Coho 10YearAvg', 'JCoho', 'Jack Coho 10YearAvg', 'Shad', 'Shad 10YearAvg', 'Lmpry', 'Lamprey 10YearAvg', 'BTrout', 'Bull Trout 10YearAvg', 'Chum', 'Chum 10YearAvg', 'Pink', 'TempC']
 2025-07-31 16:19:31.104355 - Latest valid Willamette row: {'Project': 'Willamette Falls', 'Date': Timestamp('2025-07-29 00:00:00'), 'Chinook Run': nan, 'Chin': 81.0, 'Chinook 10YearAvg': 49.0, 'JChin': 3.0, 'Jack Chinook 10YearAvg': 3.0, 'Stlhd': 7.0, 'Steelhead 10YearAvg': 9.0, 'WStlhd': nan, 'Wild Steelhead 10YearAvg': nan, 'Sock': nan, 'Sockeye 10YearAvg': nan, 'Coho': nan, 'Coho 10YearAvg': nan, 'JCoho': nan, 'Jack Coho 10YearAvg': nan, 'Shad': nan, 'Shad 10YearAvg': nan, 'Lmpry': nan, 'Lamprey 10YearAvg': nan, 'BTrout': nan, 'Bull Trout 10YearAvg': nan, 'Chum': nan, 'Chum 10YearAvg': nan, 'Pink': nan, 'TempC': nan}
 2025-07-31 16:19:37.275102 - HTML file has been generated successfully.
+2025-07-31 16:19:39.828798 - Changes pushed to GitHub successfully.
+2025-07-31 16:35:48.957072 - Error fetching Columbia data: Response ended prematurely
+2025-07-31 16:37:15.462130 - Error fetching Columbia data: Response ended prematurely
+2025-07-31 16:37:27.768900 - HTML file has been generated successfully.
