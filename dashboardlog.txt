@@ -19285,3 +19285,5 @@
 2025-07-31 21:07:32.722426 - Error fetching Willamette data: HTTPSConnectionPool(host='or.water.usgs.gov', port=443): Max retries exceeded with url: /will_morrison/monitors/will_morrison_tbdy.dat (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001569C7EAF50>, 'Connection to or.water.usgs.gov timed out. (connect timeout=None)'))
 2025-07-31 21:08:24.816184 - Error fetching Willamette data: HTTPSConnectionPool(host='or.water.usgs.gov', port=443): Max retries exceeded with url: /will_morrison/monitors/will_morrison_tbdy.dat (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001569C12FF50>, 'Connection to or.water.usgs.gov timed out. (connect timeout=None)'))
 2025-07-31 21:08:35.824999 - Error during HTML generation: 'NoneType' object is not subscriptable
+2025-07-31 21:08:38.002220 - Changes pushed to GitHub successfully.
+2025-07-31 21:23:44.574987 - HTML file has been generated successfully.
