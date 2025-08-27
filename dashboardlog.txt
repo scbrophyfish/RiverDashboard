@@ -25372,3 +25372,14 @@
 2025-08-27 01:20:57.262006 - HTML file has been generated successfully.
 2025-08-27 01:21:00.249991 - Changes pushed to GitHub successfully.
 2025-08-27 01:36:05.991946 - HTML file has been generated successfully.
+2025-08-27 01:36:08.574937 - Changes pushed to GitHub successfully.
+2025-08-27 01:51:08.821069 - Error fetching Columbia fish count: Error tokenizing data. C error: Expected 1 fields in line 8, saw 2
+
+2025-08-27 01:51:08.999300 - Error fetching Willamette fish count: Error tokenizing data. C error: Expected 1 fields in line 8, saw 2
+
+2025-08-27 01:51:13.015608 - Error fetching Columbia data: '116835_63680'
+2025-08-27 01:51:24.650492 - Error fetching Columbia data: '116835_63680'
+2025-08-27 01:51:36.437777 - Error fetching Columbia data: '116835_63680'
+2025-08-27 01:51:48.272413 - Error fetching Columbia data: '116835_63680'
+2025-08-27 01:51:59.924319 - Error fetching Columbia data: '116835_63680'
+2025-08-27 01:52:09.937544 - Error during HTML generation: 'NoneType' object is not subscriptable
