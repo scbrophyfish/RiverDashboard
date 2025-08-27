@@ -25513,3 +25513,12 @@
 2025-08-27 11:36:44.800682 - Error during HTML generation: 'NoneType' object is not subscriptable
 2025-08-27 11:36:47.355476 - Changes pushed to GitHub successfully.
 2025-08-27 11:51:53.514619 - HTML file has been generated successfully.
+2025-08-27 11:51:56.291354 - Changes pushed to GitHub successfully.
+2025-08-27 12:06:57.898366 - Fish count CSV columns: ['Project', 'Date', 'Chinook Run', 'Chin', 'Chinook 10YearAvg', 'JChin', 'Jack Chinook 10YearAvg', 'Stlhd', 'Steelhead 10YearAvg', 'WStlhd', 'Wild Steelhead 10YearAvg', 'Sock', 'Sockeye 10YearAvg', 'Coho', 'Coho 10YearAvg', 'JCoho', 'Jack Coho 10YearAvg', 'Shad', 'Shad 10YearAvg', 'Lmpry', 'Lamprey 10YearAvg', 'BTrout', 'Bull Trout 10YearAvg', 'Chum', 'Chum 10YearAvg', 'Pink', 'TempC']
+2025-08-27 12:07:07.944493 - Error fetching Willamette fish count: HTTPSConnectionPool(host='www.cbr.washington.edu', port=443): Read timed out. (read timeout=10)
+2025-08-27 12:07:11.967372 - Error fetching Columbia data: '116835_63680'
+2025-08-27 12:07:23.855019 - Error fetching Columbia data: '116835_63680'
+2025-08-27 12:07:35.585668 - Error fetching Columbia data: '116835_63680'
+2025-08-27 12:07:47.432668 - Error fetching Columbia data: '116835_63680'
+2025-08-27 12:07:59.220544 - Error fetching Columbia data: '116835_63680'
+2025-08-27 12:08:09.225694 - Error during HTML generation: 'NoneType' object is not subscriptable
