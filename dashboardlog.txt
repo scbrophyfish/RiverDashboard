@@ -25808,3 +25808,6 @@
 2025-08-28 10:50:26.465016 - Error fetching Columbia data: '116835_63680'
 2025-08-28 10:50:38.278319 - Error fetching Columbia data: '116835_63680'
 2025-08-28 10:50:48.288875 - Error during HTML generation: 'NoneType' object is not subscriptable
+2025-08-28 10:50:50.512371 - Changes pushed to GitHub successfully.
+2025-08-28 11:05:50.749176 - Error fetching Willamette data: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-28 11:06:05.024602 - HTML file has been generated successfully.
