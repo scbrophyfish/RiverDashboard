@@ -26417,3 +26417,13 @@
 2025-08-30 13:06:10.712058 - HTML file has been generated successfully.
 2025-08-30 13:06:13.300072 - Changes pushed to GitHub successfully.
 2025-08-30 13:21:19.591907 - HTML file has been generated successfully.
+2025-08-30 13:21:22.081704 - Changes pushed to GitHub successfully.
+2025-08-30 13:36:23.710291 - Fish count CSV columns: ['Project', 'Date', 'Chinook Run', 'Chin', 'Chinook 10YearAvg', 'JChin', 'Jack Chinook 10YearAvg', 'Stlhd', 'Steelhead 10YearAvg', 'WStlhd', 'Wild Steelhead 10YearAvg', 'Sock', 'Sockeye 10YearAvg', 'Coho', 'Coho 10YearAvg', 'JCoho', 'Jack Coho 10YearAvg', 'Shad', 'Shad 10YearAvg', 'Lmpry', 'Lamprey 10YearAvg', 'BTrout', 'Bull Trout 10YearAvg', 'Chum', 'Chum 10YearAvg', 'Pink', 'TempC']
+2025-08-30 13:36:25.485098 - Willamette fish count CSV columns: ['Project', 'Date', 'Chinook Run', 'Chin', 'Chinook 10YearAvg', 'JChin', 'Jack Chinook 10YearAvg', 'Stlhd', 'Steelhead 10YearAvg', 'WStlhd', 'Wild Steelhead 10YearAvg', 'Sock', 'Sockeye 10YearAvg', 'Coho', 'Coho 10YearAvg', 'JCoho', 'Jack Coho 10YearAvg', 'Shad', 'Shad 10YearAvg', 'Lmpry', 'Lamprey 10YearAvg', 'BTrout', 'Bull Trout 10YearAvg', 'Chum', 'Chum 10YearAvg', 'Pink', 'TempC']
+2025-08-30 13:36:25.499861 - Latest valid Willamette row: {'Project': 'Willamette Falls', 'Date': Timestamp('2025-08-28 00:00:00'), 'Chinook Run': nan, 'Chin': 19.0, 'Chinook 10YearAvg': 34.0, 'JChin': 4.0, 'Jack Chinook 10YearAvg': 2.0, 'Stlhd': 2.0, 'Steelhead 10YearAvg': 7.0, 'WStlhd': nan, 'Wild Steelhead 10YearAvg': nan, 'Sock': nan, 'Sockeye 10YearAvg': nan, 'Coho': 22.0, 'Coho 10YearAvg': 1.0, 'JCoho': 1.0, 'Jack Coho 10YearAvg': 1.0, 'Shad': nan, 'Shad 10YearAvg': nan, 'Lmpry': nan, 'Lamprey 10YearAvg': nan, 'BTrout': nan, 'Bull Trout 10YearAvg': nan, 'Chum': nan, 'Chum 10YearAvg': nan, 'Pink': nan, 'TempC': nan}
+2025-08-30 13:36:29.124408 - Error fetching Columbia data: '116835_63680'
+2025-08-30 13:36:40.913061 - Error fetching Columbia data: '116835_63680'
+2025-08-30 13:36:52.632779 - Error fetching Columbia data: '116835_63680'
+2025-08-30 13:37:04.426061 - Error fetching Columbia data: '116835_63680'
+2025-08-30 13:37:16.124380 - Error fetching Columbia data: '116835_63680'
+2025-08-30 13:37:26.135664 - Error during HTML generation: 'NoneType' object is not subscriptable
