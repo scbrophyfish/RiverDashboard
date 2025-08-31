@@ -26737,3 +26737,10 @@
 2025-08-31 14:05:34.671347 - HTML file has been generated successfully.
 2025-08-31 14:05:36.986469 - Changes pushed to GitHub successfully.
 2025-08-31 14:20:39.797751 - HTML file has been generated successfully.
+2025-08-31 14:20:42.098094 - Changes pushed to GitHub successfully.
+2025-08-31 14:35:44.673530 - Error fetching Columbia data: '116835_63680'
+2025-08-31 14:35:56.438801 - Error fetching Columbia data: '116835_63680'
+2025-08-31 14:36:08.147707 - Error fetching Columbia data: '116835_63680'
+2025-08-31 14:36:19.939512 - Error fetching Columbia data: '116835_63680'
+2025-08-31 14:36:31.753618 - Error fetching Columbia data: '116835_63680'
+2025-08-31 14:36:41.763669 - Error during HTML generation: 'NoneType' object is not subscriptable
