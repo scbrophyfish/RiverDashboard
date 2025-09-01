@@ -27055,3 +27055,11 @@
 2025-09-01 12:51:47.128092 - HTML file has been generated successfully.
 2025-09-01 12:51:49.595980 - Changes pushed to GitHub successfully.
 2025-09-01 13:06:56.158473 - HTML file has been generated successfully.
+2025-09-01 13:06:58.725377 - Changes pushed to GitHub successfully.
+2025-09-01 13:21:58.937988 - Error fetching Willamette data: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-01 13:22:12.574589 - Error fetching Columbia data: '116835_63680'
+2025-09-01 13:22:24.218255 - Error fetching Columbia data: '116835_63680'
+2025-09-01 13:22:36.127251 - Error fetching Columbia data: '116835_63680'
+2025-09-01 13:22:47.912831 - Error fetching Columbia data: '116835_63680'
+2025-09-01 13:22:59.827849 - Error fetching Columbia data: '116835_63680'
+2025-09-01 13:23:09.829811 - Error during HTML generation: 'NoneType' object is not subscriptable
