@@ -1,993 +1,387 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
-  <head> 
-    <meta charset="utf-8" />
-<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
-<meta name="MobileOptimized" content="width" />
-<meta name="HandheldFriendly" content="true" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link rel="icon" href="/themes/custom/cbr/favicon.ico" type="image/vnd.microsoft.icon" />
-<link rel="canonical" href="https://www.cbr.washington.edu/dart/wrapper" />
-<link rel="shortlink" href="https://www.cbr.washington.edu/node/876" />
-
-      <title>Columbia River DART Results | Columbia Basin Research</title>
-      <link rel="stylesheet" media="all" href="/sites/default/files/css/css_jVUX7geF4Hsq9O_GOPkMU1cPNwAwqIaCmlf4eXcOsqA.css" />
-<link rel="stylesheet" media="all" href="/sites/default/files/css/css_PJMDxwkMigKO_2N1HQiw7IqRu5kH5nGq1b5ZNHaXhnc.css" />
-<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&amp;display==swap" />
-<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css2?family=Alegreya+SC:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" />
-<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" />
-<link rel="stylesheet" media="all" href="/sites/default/files/css/css_qwh7vkc3LH78Ra1mS2mkTpqDf1TH58NTxujFSbdz6HA.css" />
-
-        </head>
-        <body class="path-node page-node-type-cgi-wrapper">
-                    <a href="#main-content" class="visually-hidden focusable skip-link">
-            Skip to main content
-          </a>
-          <a href="#contact-search" class="visually-hidden focusable skip-link">
-            Skip to contact and search
-          </a>
-          
-            <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
-    <!-- HEADER-->
-
-<!-- HEADER -->
-<header id="cbr_header">
-  <div class="region region-header-cbr">
-    <div id="block-cbrnewaltmegamenu-2" class="block block-block-content block-block-content4c76d48e-f823-4100-9ffc-e007e366b57f">
-  
-    
-      
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div style="background-color:white;text-align:center">The database will be unavailable for several hours on Saturday, January 10th, 2026, for system upgrades starting at 10am Pacific.</div>
-<!--search -->
-<div id="cbr_logoSearch">
-	<div id="cbr_logoSearch_box">
-          <div class="cbr_logo">
-            <a href="/"><img src="/cbr_img/cbr_logo_horiz.png" class="img-fluid" aria-label="Columbia Basin Research"></a>
-          </div>
-		<div class="cbr_uw_units_box">
-			<div class="cbr_uw_units">
-<!--start uw unit -->
-              <div>
-				  <a href="https://www.washington.edu/" class="cbr_uw_units_link">
-<img src="/cbr_img/UW-Wordmark_center_white.png" aria-label="University of Washington" width="245px"></a>
-				</div>
-				<div>
-				  <a href="https://fish.uw.edu" class="cbr_uw_units_link">School of Aquatic and Fishery Sciences</a>
-			</div>
-<!--end uw unit -->
-			</div>
-		</div>
-	</div>
-</div>
-<!--end search box -->
-
-<!-- start mobile-->
-<nav aria-label="Mobile Main">
-<div class="cbr_mobileBlock">
-	<a href="/"><img src="/cbr_img/cbr_logo_horiz.png" class="img-fluid" id="logo_accordion" aria-label="Columbia Basin Research"></a>
-	<div id="cbraccordion">
-		<button class="cbr_icon_nav"><i class="bi-list" aria-description="Menu Button"></i></button>
-
-		<div class="cbr_Panel">
-			<button class="cbr_accordion cbr_mobile_nav">Data</button>
-			<div class="cbr_PanelSub">
-				<a href="/dart" class="cbr_acc_landing">Data Access in Real Time</a>
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Adult Salmonid Passage
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-										<li><a class="mm_li" href="/dart/query/adult_graph_text">Adult Passage Counts</a></li>
-										<li><a class="mm_li" href="/dart/query/adult_hrt">Historical Run Timing</a></li>
-										<li><a class="mm_li" href="/dart/query/pitadult_graph_text">PIT Tag Adult Returns</a></li>
-										<li><a class="mm_li" href="/dart/query/pitadult_conrate">Conversion Rate</a></li>
-										<li><a class="mm_li" href="/dart/query/pitadult_fallback">Fallback Rates</a></li>
-										<li><a class="mm_li" href="/dart/query/pitadult_reachdist">Reach Distribution &amp; Delay</a></li>
-										<li><a class="mm_li" href="/dart#alldart_adult">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-					</ul>
-				</div>
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Juvenile Salmonid Passage
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-										<li><a class="mm_li" href="/dart/query/pit_obs_graph_text">PIT Tag Observations</a></li>
-										<li><a class="mm_li" href="/dart/query/pit_obs_hrt">Historical Run Timing</a></li>
-										<li><a class="mm_li" href="/dart/query/pit_sum_tagfiles">Tag Files for CJS &amp; Travel Time</a></li>
-										<li><a class="mm_li" href="/dart/query/smolt_graph_text">Smolt Index</a></li>
-										<li><a class="mm_li" href="/dart/query/transport_graph_text">Transportation</a></li>
-										<li><a class="mm_li" href="/dart/query/pit_lwg">Lwr Granite Bypass &amp; Spillway</a></li>
-										<li><a class="mm_li" href="/dart#alldart_juv">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-					</ul>
-				</div>
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Quick Look
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-										<li><a class="mm_li" href="/dart/quick_look/adult">Adult Passage Counts</a></li>
-										<li><a class="mm_li" href="/dart/quick_look/adult_bon">Bonneville Adult Spring Chinook</a></li>
-										<li><a class="mm_li" href="/dart/quick_look/adult_bon_stlhd">Bonneville Adult Steelhead</a></li>
-										<li><a class="mm_li" href="/dart/quick_look/pitfallback_spring">Spring Spill Chinook Fallback</a></li>
-										<li><a class="mm_li" href="/dart/quick_look/river">River Environment</a></li>
-										<li><a class="mm_li" href="/dart/quick_look/summer_tempc">Summer Water Temperature</a></li>
-										<li><a class="mm_li" href="/dart#quicklook">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-					</ul>
-				</div>            
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Graphics &amp; Text
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-										<li><a class="mm_li" href="/dart/query/adult_graph_text">Adult Passage Counts</a></li>
-										<li><a class="mm_li" href="/dart/query/pitadult_graph_text">PIT Tag Adult Returns</a></li>
-										<li><a class="mm_li" href="/dart/query/esu_graph_text">ESU &amp; DPS</a></li>
-										<li><a class="mm_li" href="/dart/query/pit_obs_graph_text">Juvenile PIT Tag Observations</a></li>
-										<li><a class="mm_li" href="/dart/query/smolt_graph_text">Smolt Index</a></li>
-										<li><a class="mm_li" href="/dart/query/river_graph_text">River Environment</a></li>
-										<li><a class="mm_li" href="/dart#graphicstext">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-					</ul>
-				</div>            
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Freshwater Conditions
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-				<li><a class="mm_li" href="/dart/query/basin_conditions">Basin Conditions</a></li>
-				<li><a class="mm_li" href="/dart/query/river_graph_text">River Environment</a></li>
-				<li><a class="mm_li" href="/dart/query/wqm_graph">Hourly Water Quality</a></li>
-				<li><a class="mm_li" href="/dart/query/streamflow_graph_text">Streamflow</a></li>
-				<!--<li><a class="mm_li" href="/dart/water_supply">Columbia Basin Water Supply</a></li>-->
-										<li><a class="mm_li" href="/dart#alldart_freshwater">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-					</ul>
-				</div>            
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Ocean &amp; Climate Conditions
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-										<li><a class="mm_li" href="/dart/query/basin_scale_indices">Basin Scale Indices</a></li>
-										<li><a class="mm_li" href="/dart/query/upwell_graph_text">Coastal Upwelling Index</a></li>
-										<li><a class="mm_li" href="/dart/query/buoy_graph_text">Ocean Moored Buoys</a></li>
-										<li><a class="mm_li" href="/dart#alldart_ocean">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-					</ul>
-				</div>      			
-				<button class="cbr_accordion cbr_mobile_navSub">
-				ESU &amp; DPS Populations
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-										<li><a class="mm_li" href="/dart/query/esu_graph_text">PIT Tag Observations</a></li>
-										<!--<li><a class="mm_li" href="/dart/query/esu_detail">Observation Detail</a></li>-->
-										<li><a class="mm_li" href="/dart/query/esu_tt">Travel Times</a></li>
-										<li><a class="mm_li" href="/dart/query/esu_hrt">Historical Run Timing</a></li>
-										<li><a class="mm_li" href="/dart/query/pit_sar_esu">SAR Survivals</a></li>
-										<li><a class="mm_li" href="/dart#alldart_esu">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-					</ul>
-				</div>      				            
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Fish &amp; Environment
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-										<li><a class="mm_li" href="/perform">Performance Measures</a></li>
-										<li><a class="mm_li" href="/dart/query/adult_ladder_temps">Adult Ladder Temperatures</a></li>
-										<li><a class="mm_li" href="/dart/query/adult_hourly">Hourly Adult Passage &amp; River</a></li>
-					</ul>
-				</div>      	
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Resident Species
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-										<li><a class="mm_li" href="/dart/query/pit_resident_sum">Summary by Release Year</a></li>
-										<!--<li><a class="mm_li" href="/dart/query/pit_resident_obssum">Observation Summary</a></li>-->
-										<li><a class="mm_li" href="/dart/query/bulltrout">Bull Trout</a></li>
-					</ul>
-				</div>      
-				
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Resources
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-								<li><a class="mm_li" href="/dart/overview">Overview of DART</a></li>
-								<li><a class="mm_li" href="/dart#Access_DART">Access all DART tools</a></li>
-								<li><a class="mm_li" href="/dart/metadata">Metadata and Glossaries</a></li>
-								<li><a class="mm_li" href="/dart/inventory">Data Inventory</a></li>
-								<li><a class="mm_li" href="/dart/dartmap">Data Site Maps</a></li>
-								<li><a class="mm_li" href="/dart/news">News and Announcements</a></li>
-								<li><a class="mm_li" href="/dart/data_feedback">Data Feedback</a></li>
-					</ul>
-				</div>
-			</div>
-		<!--end data accordion -->
-		<!--start predictions accordion -->
-			<button class="cbr_accordion cbr_mobile_nav">Predictions</button>
-			<div class="cbr_PanelSub">
-				<a href="/inseason" class="cbr_acc_landing">Predictions</a>
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Inseason Smolt Passage
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-                            <li><a class="mm_li" href="/inseason/smolt_snake_pit">PIT Tag stocks</a></li>
-                              <li><a class="mm_li" href="/inseason/smolt_all_pi">Passage Index</a></li>
-                              <li><a class="mm_li" href="/inseason/smolt_midcol_che">Chelan Passage Counts</a></li>
-                              <li><a class="mm_li" href="/inseason/smolt_esu">PIT Tag ESU stocks</a></li>
-					</ul>
-				</div>
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Inseason Adult Passage
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-                            <li><a class="mm_li" href="/inseason/adult">Passage</a></li>
-                            <li><a class="mm_li" href="/inseason/adult">Daily Run Size &amp; Passage</a></li>
-                            <li><a class="mm_li" href="/inseason/adult">Peak Arrival Timing &amp; Run Size</a></li>
-					</ul>
-				</div>
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Inseason Water Quality
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-					<li><a class="mm_li" href="/inseason/water">Water temperature</a></li>
-					<li><a class="mm_li" href="/inseason/water">Total Dissolved Gas</a></li>
-					</ul>
-				</div>
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Resources
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-                          <li><a class="mm_li" href="/inseason/methods">Methods</a></li>
-                          <li><a class="mm_li" href="/inseason/overview">Overview</a></li>
-                          <li><a class="mm_li" href="/inseason/pubs">Publications</a></li>
-					</ul>  
-				</div>
-			</div>
-		<!--end predictions accordion -->
-		<!--start trends accordion -->
-			<button class="cbr_accordion cbr_mobile_nav">Trends</button>
-			<div class="cbr_PanelSub">
-				<a href="/status" class="cbr_acc_landing">Trends</a>
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Fish Status &amp; Trends
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-					<li><a class="mm_li" href="/trends/index.php">Columbia Basin Annual Trends</a></li>
-					<li><a class="mm_li" href="/trends/roster.php">ROSTER Performance Measures</a></li>
-					<li><a class="mm_li" href="/pitsurv/">PIT Tag Survival &amp; Travel Time</a></li>
-					</ul>
-				</div>
-				<button class="cbr_accordion cbr_mobile_navSub">
-				River &amp; Stream Conditions
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-					<li><a class="mm_li" href="/shiny/DAM_CONDITIONS/">Dam Conditions</a></li>
-					<li><a class="mm_li" href="/shiny/RESERVOIR_CONDITIONS/">Reservoir Conditions</a></li>
-                    <li><a class="mm_li" href="/shiny/salmon-stream-temperature/">Predicted Stream Temperatures</a></li>
-					</ul>
-				</div>
-			</div>         
-		<!--end trends accordion -->
-		<!--start tools accordion -->          
-			<button class="cbr_accordion cbr_mobile_nav">Tools</button>
-			<div class="cbr_PanelSub">
-				<a href="/analysis" class="cbr_acc_landing">Tools</a>
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Parameter Estimation
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-                           <li><a class="mm_li" href="/analysis/apps/atlas">ATLAS</a></li>
-                            <li><a class="mm_li" href="/analysis/apps/BasinTribPit">Basin TribPit</a></li>
-                            <li><a class="mm_li" href="/analysis/apps/branch">Branch</a></li>
-                            <li><a class="mm_li" href="/analysis/apps/pitpro">PitPro</a></li>
-                            <li><a class="mm_li" href="/analysis/apps/roster">ROSTER</a></li>
-                            <li><a class="mm_li" href="/analysis/apps/samplesize">SampleSize</a></li>
-                            <li><a class="mm_li" href="/analysis/apps/surph">SURPH</a></li>
-                            <li><a class="mm_li" href="/analysis/apps/user">USER</a></li>
-                            <li><a class="mm_li" href="/analysis">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-					</ul>
-				</div>
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Fish Passage Models
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-                            <li><a class="mm_li" href="/analysis/compass">COMPASS</a></li>
-                              <li><a class="mm_li" href="/analysis/rt">RealTime Forecasters</a></li>
-                              <li><a class="mm_li" href="/TDG">TDG Mortality using COMPASS</a></li>
-					</ul>
-				</div>
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Other Models
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-                              <li><a class="mm_li" href="/egg_growth/">Egg Growth</a></li>
-                              <li><a class="mm_li" href="/analysis/vitality">Vitality Model</a></li>
-					</ul>
-				</div>
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Archived Models
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-                            <li><a class="mm_li" href="/analysis/archive/harvest/crispharvest">CRiSP Harvest</a></li>
-                            <li><a class="mm_li" href="/analysis/archive/crisp">CRiSP Passage</a></li>
-                            <li><a class="mm_li" href="/analysis">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-					</ul>
-				</div>
-			</div>
-		<!--end tools accordion -->
-		<!--start publications accordion -->    
-			<button class="cbr_accordion cbr_mobile_nav">Publications</button>
-			<div class="cbr_PanelSub">
-				<a href="/papers" class="cbr_acc_landing">Publications</a>
-				<button class="cbr_accordion cbr_mobile_navSub">
-				Publications &amp; Resources
-				</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-								<li><a class="mm_li" href="/papers#pubs">Papers, reports and books</a></li>
-								<li><a class="mm_li" href="/papers#gscholar">Google Scholar by Author</a></li>
-								<li><a class="mm_li" href="/papers#rgate">ResearchGate profiles by Author</a></li>
-								<li><a class="mm_li" href="https://www.youtube.com/@columbiabasinresearch4974">Video tutorials</a></li>								
-								<li><a class="mm_li" href="/papers">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-					</ul>
-				</div>
-			</div>
-		<!--end publications accordion -->
-		<!--start about accordion -->              
-			<button class="cbr_accordion cbr_mobile_nav">About</button>
-			<div class="cbr_PanelSub">
-				<a href="/about" class="cbr_acc_landing">About</a>
-				<button class="cbr_accordion cbr_mobile_navSub">Who We Are</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-					<li><a class="mm_li" href="/people">People</a></li>
-					<li><a class="mm_li" href="/contact">Contact</a></li>
-					</ul>
-				</div>
-				<button class="cbr_accordion cbr_mobile_navSub">What We Do</button>
-				<div class="cbr_PanelSub2">
-					<ul class="mm_list">
-                            <li><a class="mm_li" href="/publicaccess">Facilitating Access</a></li>
-                            <li><a class="mm_li" href="/research">Conducting Research</a></li>
-                            <li><a class="mm_li" href="/connections">Making Connections</a></li>
-					</ul>
-				</div>
-			</div>
-		<!--end about accordion -->
-		</div>
-	</div>
-</div>
-<!-- end mobile-->
-</nav>
-
-<!-- start desktop-->
-      <nav id="cbr_altnav" aria-label="Main">
-        <div id="cbr_nav_menu" class="dropdown">
-<div class="navsep">&nbsp;</div>
-<!--start DATA -->
-<div id="datagrp">
-	<div class="btn-group dropdown-center" id="cbr_btn_datagrp">
-		<a href="/dart" id="cbr_btn_data" class="btn btn-cbrnav btn-sm cbr_topnav cbr_topnav_home cbr_dropdown cbr_dropbtn cbr_NavButtonLink" aria-label="Data Section">Data</a>
-		
-		<button type="button" class="btn btn-cbrnav dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Data Section Mega Menu" aria-controls="cbr_Data">
-		</button>
-		
-		<div class="dropdown-menu">
-			<div id="cbr_Data">
-				<div id="cbr_NavData">
-					<div class="cbr_NavWrapper">
-						<div class="cbr_NavCenterLarge">
-							<div class="cbr_NavCol1">
-								<a href="/dart" class="cbr_NavCat">Data Access in Real Time</a>
-								<p>
-								Access data, summaries and visualizations in real time through online queries.
-								<br><br>
-								Information available includes data on salmon, steelhead, freshwater resident species, and environmental conditions related to river, estuary, ocean, and climate.</p>
-								<br><br>
-
-								<div class="cbr_NavHdr">Resources</div>
-								<ul class="mm_list">
-								<li><a class="mm_li" href="/dart/overview">Overview of DART</a></li>
-								<li><a class="mm_li" href="/dart#Access_DART">Access all DART tools</a></li>
-								<li><a class="mm_li" href="/dart/metadata">Metadata and Glossaries</a></li>
-								<li><a class="mm_li" href="/dart/inventory">Data Inventory</a></li>
-								<li><a class="mm_li" href="/dart/dartmap">Data Site Maps</a></li>
-								<li><a class="mm_li" href="/dart/news">News and Announcements</a></li>
-								<li><a class="mm_li" href="/dart/data_feedback">Data Feedback</a></li>
-								</ul>
-							</div>
-
-							<div class="cbr_NavCol2">
-								<div class="cbr_NavRow">
-									<div class="cbr_NavCol3">
-										<div class="cbr_NavHdr">Adult Salmonid Passage</div>
-										<ul class="mm_list">
-										<li><a class="mm_li" href="/dart/query/adult_graph_text">Adult Passage Counts</a></li>
-										<li><a class="mm_li" href="/dart/query/adult_hrt">Historical Run Timing</a></li>
-										<li><a class="mm_li" href="/dart/query/pitadult_graph_text">PIT Tag Adult Returns</a></li>
-										<li><a class="mm_li" href="/dart/query/pitadult_conrate">Conversion Rate</a></li>
-										<li><a class="mm_li" href="/dart/query/pitadult_fallback">Fallback Rates</a></li>
-										<li><a class="mm_li" href="/dart/query/pitadult_reachdist">Reach Distribution &amp; Delay</a></li>
-										<li><a class="mm_li" href="/dart#alldart_adult">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="cbr_NavCol3">
-										<div class="cbr_NavHdr">Juvenile Salmonid Passage</div>
-										<ul class="mm_list">
-										<li><a class="mm_li" href="/dart/query/pit_obs_graph_text">PIT Tag Observations</a></li>
-										<li><a class="mm_li" href="/dart/query/pit_obs_hrt">Historical Run Timing</a></li>
-										<li><a class="mm_li" href="/dart/query/pit_sum_tagfiles">Tag Files for CJS &amp; Travel Time</a></li>
-										<li><a class="mm_li" href="/dart/query/smolt_graph_text">Smolt Index</a></li>
-										<li><a class="mm_li" href="/dart/query/transport_graph_text">Transportation</a></li>
-										<li><a class="mm_li" href="/dart/query/pit_lwg">Lwr Granite Bypass &amp; Spillway</a></li>
-										<li><a class="mm_li" href="/dart#alldart_juv">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="cbr_NavCol3">
-										<div class="cbr_NavHdr">Quick Look</div>
-										<ul class="mm_list">
-										<li><a class="mm_li" href="/dart/quick_look/adult">Adult Passage Counts</a></li>
-										<li><a class="mm_li" href="/dart/quick_look/adult_bon">Bonneville Adult Spring Chinook</a></li>
-										<li><a class="mm_li" href="/dart/quick_look/adult_bon_stlhd">Bonneville Adult Steelhead</a></li>
-										<li><a class="mm_li" href="/dart/quick_look/pitfallback_spring">Spring Spill Chinook Fallback</a></li>
-										<li><a class="mm_li" href="/dart/quick_look/river">River Environment</a></li>
-										<li><a class="mm_li" href="/dart/quick_look/summer_tempc">Summer Water Temperature</a></li>
-										<li><a class="mm_li" href="/dart#quicklook">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="cbr_NavCol3">
-										<div class="cbr_NavHdr">Graphics &amp; Text</div>
-										<ul class="mm_list">
-										<li><a class="mm_li" href="/dart/query/adult_graph_text">Adult Passage Counts</a></li>
-										<li><a class="mm_li" href="/dart/query/pitadult_graph_text">PIT Tag Adult Returns</a></li>
-										<li><a class="mm_li" href="/dart/query/esu_graph_text">ESU &amp; DPS</a></li>
-										<li><a class="mm_li" href="/dart/query/pit_obs_graph_text">Juvenile PIT Tag Observations</a></li>
-										<li><a class="mm_li" href="/dart/query/smolt_graph_text">Smolt Index</a></li>
-										<li><a class="mm_li" href="/dart/query/river_graph_text">River Environment</a></li>
-										<li><a class="mm_li" href="/dart#graphicstext">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-								</div>
-								<!-- end data row 1-->
-								<!-- start data row 2-->
-								<div class="cbr_NavRow">
-									<div class="cbr_NavCol3">
-										<div class="cbr_NavHdr">Freshwater Conditions</div>
-										<ul class="mm_list">
-				<li><a class="mm_li" href="/dart/query/basin_conditions">Basin Conditions</a></li>
-				<li><a class="mm_li" href="/dart/query/river_graph_text">River Environment</a></li>
-				<li><a class="mm_li" href="/dart/query/wqm_graph">Hourly Water Quality</a></li>
-				<li><a class="mm_li" href="/dart/query/streamflow_graph_text">Streamflow</a></li>
-				<!--<li><a class="mm_li" href="/dart/water_supply">Columbia Basin Water Supply</a></li>-->
-										<li><a class="mm_li" href="/dart#alldart_freshwater">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="cbr_NavCol3">
-										<div class="cbr_NavHdr">Ocean &amp; Climate Conditions</div>
-										<ul class="mm_list">
-										<li><a class="mm_li" href="/dart/query/basin_scale_indices">Basin Scale Indices</a></li>
-										<li><a class="mm_li" href="/dart/query/upwell_graph_text">Coastal Upwelling Index</a></li>
-										<li><a class="mm_li" href="/dart/query/buoy_graph_text">Ocean Moored Buoys</a></li>
-										<li><a class="mm_li" href="/dart#alldart_ocean">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>									
-									<div class="cbr_NavCol3">
-										<div class="cbr_NavHdr">ESU &amp; DPS Populations</div>
-										<ul class="mm_list">
-										<li><a class="mm_li" href="/dart/query/esu_graph_text">PIT Tag Observations</a></li>
-										<!--<li><a class="mm_li" href="/dart/query/esu_detail">Observation Detail</a></li>-->
-										<li><a class="mm_li" href="/dart/query/esu_tt">Travel Times</a></li>
-										<li><a class="mm_li" href="/dart/query/esu_hrt">Historical Run Timing</a></li>
-										<li><a class="mm_li" href="/dart/query/pit_sar_esu">SAR Survivals</a></li>
-										<li><a class="mm_li" href="/dart#alldart_esu">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="cbr_NavCol3">
-										<div class="cbr_NavHdr">Fish &amp; Environment</div>
-										<ul class="mm_list">
-										<li><a class="mm_li" href="/perform">Performance Measures</a></li>
-										<li><a class="mm_li" href="/dart/query/adult_ladder_temps">Adult Ladder Temperatures</a></li>
-										<li><a class="mm_li" href="/dart/query/adult_hourly">Hourly Adult Passage &amp; River</a></li>
-										</ul>
-										<div class="cbr_NavHdr">Resident Species</div>
-										<ul class="mm_list">
-										<li><a class="mm_li" href="/dart/query/pit_resident_sum">Summary by Release Year</a></li>
-										<!--<li><a class="mm_li" href="/dart/query/pit_resident_obssum">Observation Summary</a></li>-->
-										<li><a class="mm_li" href="/dart/query/bulltrout">Bull Trout</a></li>
-										</ul>
-									</div>									
-								</div>
-								<!-- end data row 2-->
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--end Data DART -->
-<div class="navsep">&nbsp;</div>
-
-<!--start Predictions -->
-<div id="predsgrp">
-          <div class="btn-group dropdown-center" id="cbr_btn_predsgrp">
-            <a href="/inseason" id="cbr_btn_preds" class="btn btn-cbrnav btn-sm cbr_topnav cbr_topnav_home cbr_dropdown cbr_dropbtn cbr_NavButtonLink" aria-label="Predictions Section">Predictions</a>
-            <button type="button" class="btn btn-cbrnav dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Predictions Section Mega Menu" aria-controls="cbr_Predictions">
-            </button>
-            <div class="dropdown-menu">
-              <div id="cbr_Predictions">
-                <div id="cbr_NavPredictions">
-                  <div class="cbr_NavWrapper">
-                    <div class="cbr_NavCenter">
-                      <div class="cbr_NavCol1">
-                        <a href="/inseason" class="cbr_NavCat">Predictions</a>
-                        <p>
-                          Access predictions of fish and river conditions in real-time and for historical dates. Products include
-                          Inseason Forecasts of juvenile and adult salmon
-                          passage through the Snake and Columbia rivers, and
-                          forecasts of water temperature and total dissolved
-                          gas.</p>
-								<div class="cbr_NavHdr mt-1">Resources</div>
-                           <ul class="mm_list">
-                          <li><a class="mm_li" href="/inseason/methods">Methods</a></li>
-                          <li><a class="mm_li" href="/inseason/overview">Overview</a></li>
-                          <li><a class="mm_li" href="/inseason/pubs">Publications</a></li>
-                          </ul>  
-                     </div>
-                      <div class="cbr_NavCol2">
-                        <div class="cbr_NavRow">
-                          <div class="cbr_NavCol3">
-                            <div class="cbr_NavHdr">Inseason Smolt Passage</div>
-                          <ul class="mm_list">
-                            <li><a class="mm_li" href="/inseason/smolt_snake_pit">PIT Tag stocks</a></li>
-                              <li><a class="mm_li" href="/inseason/smolt_all_pi">Passage Index</a></li>
-                              <li><a class="mm_li" href="/inseason/smolt_midcol_che">Chelan Passage Counts</a></li>
-                              <li><a class="mm_li" href="/inseason/smolt_esu">PIT Tag ESU stocks</a></li>
-                              </ul>
-                          </div>
-                          <div class="cbr_NavCol3">
-                            <div class="cbr_NavHdr">Inseason Adult Passage</div>
-                          <ul class="mm_list">
-                            <li><a class="mm_li" href="/inseason/adult">Passage</a></li>
-                            <li><a class="mm_li" href="/inseason/adult">Daily Run Size &amp; Passage</a></li>
-                            <li><a class="mm_li" href="/inseason/adult">Peak Arrival Timing &amp; Run Size</a></li>
-                            </ul>
-                            </div>
-                            </div>
-                         <div class="cbr_NavRow">
-                           <div class="cbr_NavCol3">
-
-                            <div class="cbr_NavHdr">Inseason Water Quality</div>
-                          <ul class="mm_list">
-                            <li><a class="mm_li" href="/inseason/water">Water temperature</a></li>
-                            <li><a class="mm_li" href="/inseason/water">Total Dissolved Gas</a></li>
-                            </ul>
-                            </div>
-
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-</div>
-<!--end Predictions -->
-<div class="navsep">&nbsp;</div>
-
-<!--start Status Trends -->
-<div id="trendsgrp">
-          <div class="btn-group dropdown-center" id="cbr_btn_trendsgrp">
-            <a href="/status" id="cbr_btn_tools" class="btn btn-cbrnav btn-sm cbr_topnav cbr_topnav_home cbr_dropdown cbr_dropbtn cbr_NavButtonLink" aria-label="Trends Section">Trends</a>
-            <button type="button" class="btn btn-cbrnav dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Trends Section Mega Menu" aria-controls="cbr_Trends">
-            </button>
-            <div class="dropdown-menu">
-              <div id="cbr_Trends">
-                <div id="cbr_NavTrends">
-                  <div class="cbr_NavWrapper">
-                    <div class="cbr_NavCenter">
-                      <div class="cbr_NavCol1">
-                        <a href="/status" class="cbr_NavCat">Trends</a>
-                        <p>
-                          Access fish status indices and historical trends in fish populations. The status and trends are determined from analytical research, monitoring, and evaluation related to the Federal Columbia River Power System Biological Opinion.
-                          <br><br>
-                          Explore data and historical trends of river, dam and reservoir conditions.
-                        </p>
-                      </div>
-                      <div class="cbr_NavCol2">
-                        <div class="cbr_NavRow">
-                          <div class="cbr_NavCol3">
-                            <div class="cbr_NavHdr">Fish Status &amp; Trends</div>
-							<ul class="mm_list">
-                            <li><a class="mm_li" href="/trends/index.php">Columbia Basin Annual Trends</a> -- Includes adult escapement, passage, survival, D,
-                              T/I, SAR survival, and juvenile detection
-                              probability, survival and travel time for
-                              different salmon species and areas.</li>
-
-                              <li><a class="mm_li" href="/trends/roster.php">ROSTER Results</a></li>
-
-                            <li><a class="mm_li" href="/pitsurv/">PIT Tag Survival &amp; Travel Time</a></li>
-
-                            </ul>
-                          </div>
-
-                          <div class="cbr_NavCol3">
-                           <div class="cbr_NavHdr">River &amp; Stream Conditions</div>
-							<ul class="mm_list">
-                              <li><a class="mm_li" href="/shiny/DAM_CONDITIONS/">Dam Conditions</a></li>
-                              <li><a class="mm_li" href="/shiny/RESERVOIR_CONDITIONS/">Reservoir Conditions</a></li>
-                              <li><a class="mm_li" href="/shiny/salmon-stream-temperature/">Predicted Stream Temperatures</a></li>
-                            </ul>
-
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          </div>
-<!--end Trends -->
-<div class="navsep">&nbsp;</div>
-
-<!--start Tools -->
-<div id="toolsgrp">
-          <div class="btn-group dropdown-center" id="cbr_btn_toolsgrp">
-            <a href="/analysis" id="cbr_btn_tools" class="btn btn-cbrnav btn-sm cbr_topnav cbr_topnav_home cbr_dropdown cbr_dropbtn cbr_NavButtonLink" aria-label="Tools Section">Tools</a>
-            <button type="button" class="btn btn-cbrnav dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Tools Section Mega Menu" aria-controls="cbr_Tools">
-            </button>
-            <div class="dropdown-menu">
-              <div id="cbr_Tools">
-                <div id="cbr_NavTools">
-                  <div class="cbr_NavWrapper">
-                    <div class="cbr_NavCenter">
-                      <div class="cbr_NavCol1">
-                        <a href="/analysis" class="cbr_NavCat">Tools</a>
-                        <p>
-                          Access freely available desktop software applications and R packages.
-                          <br><br>
-                          Statistical tools and mechanistic models relate to salmon, including egg growth, vitality-based survival, COMPASS, movement behavior, run timing and parameter estimation.
-                        </p>
-                      </div>
-                      <div class="cbr_NavCol2">
-                        <div class="cbr_NavRow">
-                          <div class="cbr_NavCol3">
-                            <div class="cbr_NavHdr">Parameter Estimation</div>
-							<ul class="mm_list">
-                           <li><a class="mm_li" href="/analysis/apps/atlas">ATLAS</a></li>
-                            <li><a class="mm_li" href="/analysis/apps/BasinTribPit">Basin TribPit</a></li>
-                            <li><a class="mm_li" href="/analysis/apps/branch">Branch</a></li>
-                            <li><a class="mm_li" href="/analysis/apps/pitpro">PitPro</a></li>
-                            <li><a class="mm_li" href="/analysis/apps/roster">ROSTER</a></li>
-                            <li><a class="mm_li" href="/analysis/apps/samplesize">SampleSize</a></li>
-                            <li><a class="mm_li" href="/analysis/apps/surph">SURPH</a></li>
-                            <li><a class="mm_li" href="/analysis/apps/user">USER</a></li>
-                            <li><a class="mm_li" href="/analysis">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-                            </ul>
-                          </div>
-
-                          <div class="cbr_NavCol3">
-                           <div class="cbr_NavHdr">Fish Passage Models</div>
-							<ul class="mm_list">
-                            <li><a class="mm_li" href="/analysis/compass">COMPASS</a></li>
-                              <li><a class="mm_li" href="/analysis/rt">RealTime Forecasters</a></li>
-                              <li><a class="mm_li" href="/TDG">TDG Mortality using COMPASS</a></li>
-                            </ul>
-
-                            <div class="cbr_NavHdr">Other Models</div>
-							<ul class="mm_list">
-                              <li><a class="mm_li" href="/egg_growth/">Egg Growth</a></li>
-                              <li><a class="mm_li" href="/analysis/vitality">Vitality Model</a></li>
-                            </ul>
-                            <div class="cbr_NavHdr">Archived Models</div>
-                            <ul class="mm_list">
-                            <li><a class="mm_li" href="/analysis/archive/harvest/crispharvest">CRiSP Harvest</a></li>
-                            <li><a class="mm_li" href="/analysis/archive/crisp">CRiSP Passage</a></li>
-                            <li><a class="mm_li" href="/analysis">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-                            </ul>
-
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          </div>
-<!--end Tools -->
-<div class="navsep">&nbsp;</div>
-
-<!--start Publications -->
-<div id="pubsgrp">
-          <div class="btn-group dropdown-center" id="cbr_btn_pubsgrp">
-            <a href="/papers" id="cbr_btn_pubs" class="btn btn-cbrnav btn-sm cbr_topnav cbr_topnav_home cbr_dropdown cbr_dropbtn cbr_NavButtonLink" aria-label="Publications Section">Publications</a>
-            <button type="button" class="btn btn-cbrnav dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Publications Section Mega Menu" aria-controls="cbr_Publications">
-            </button>
-            <div class="dropdown-menu">
-              <div id="cbr_Publications">
-                <div id="cbr_NavPublications">
-                  <div class="cbr_NavWrapper">
-                    <div class="cbr_NavCenterSmall">
-                      <div class="cbr_NavCol1">
-                        <a href="/papers" class="cbr_NavCat">Publications</a>
-                        <p>
-                          Browse publications by CBR. Supportive materials include videos.
-                        </p>
-                      </div>
-                      <div class="cbr_NavCol2">
-						<div class="cbr_NavHdr">Publications &amp; Resources</div>
-                        <div class="cbr_NavRow">
-                          <div class="cbr_NavCol3">
-							<ul class="mm_list">
-								<li><a class="mm_li" href="/papers#pubs">Papers, reports and books</a></li>
-								<li><a class="mm_li" href="/papers#gscholar">Google Scholar by Author</a></li>
-								<li><a class="mm_li" href="/papers#rgate">ResearchGate profiles by Author</a></li>
-								<li><a class="mm_li" href="https://www.youtube.com/@columbiabasinresearch4974">Video tutorials</a></li>								
-								<li><a class="mm_li" href="/papers">more <i class="bi bi-arrow-right-circle" aria-hidden="true"></i></a></li>
-							  </ul>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          </div>
-<!--end Publications -->
-<div class="navsep">&nbsp;</div>
-
-<!--start About -->         
-<div id="aboutgrp">
-          <div class="btn-group dropdown-center" id="cbr_btn_aboutgrp">
-            <a href="/about" id="cbr_btn_about" class="btn btn-cbrnav btn-sm cbr_topnav cbr_topnav_home cbr_dropdown cbr_dropbtn cbr_NavButtonLink" aria-label="About Section">About</a>
-            <button type="button" class="btn btn-cbrnav dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false" aria-label="About Section Mega Menu" aria-controls="cbr_About">
-            </button>
-            <div class="dropdown-menu">
-              <div id="cbr_About">
-                <div id="cbr_NavAbout">
-                  <div class="cbr_NavWrapper">
-                    <div class="cbr_NavCenterSmall">
-                      <div class="cbr_NavCol1">
-                        <a href="/about" class="cbr_NavCat">About</a>
-                        <p>
-                          CBR is an interdisciplinary research center whose mission is to provide quantitative approaches to issues involving endangered salmonid stocks in the western United States.
-                        </p>
-                      </div>
-                      <div class="cbr_NavCol2">
-                        <div class="cbr_NavRow">
-                          <div class="cbr_NavCol3">
-                            <div class="cbr_NavHdr">Who We Are</div>
-							<ul class="mm_list">
-                            <li><a class="mm_li" href="/people">People</a></li>
-                            <li><a class="mm_li" href="/contact">Contact</a></li>
-							  </ul>
- 
-                            <div class="cbr_NavHdr">What We Do</div>
-							<ul class="mm_list">
-                            <li><a class="mm_li" href="/publicaccess">Facilitating Access</a></li>
-                            <li><a class="mm_li" href="/research">Conducting Research</a></li>
-                            <li><a class="mm_li" href="/connections">Making Connections</a></li>
-							  </ul>
-
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          </div>
-<!--end About -->
-        </div>
-      </nav>
-<!--end nav -->
-</div>
-      
-  </div>
-
-  </div>
-
-</header>
-      <div class="region region-breadcrumbs">
-    <div id="block-breadcrumbs-2" class="block block-system block-system-breadcrumb-block">
-  
-    
-      <div class="cbr-crumb">
-  <div class="cbr-crumb-center">
-    <nav aria-label="breadcrumb">
-      <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
-      <ol class="breadcrumb cbr-crumb-light">
-                  <li class="breadcrumb-item">
-                          <a href="/">Home</a>
-                      </li>
-                  <li class="breadcrumb-item">
-                          <a href="/dart">Columbia River DART (Data Access in Real Time)</a>
-                      </li>
-              </ol>
-    </nav>
-  </div>
-</div>
-
-  </div>
-
-  </div>
-
-<!-- HEADER -->
-
-<!-- HEADER-->
-
-<main id="basicPageCbr">
-  <a id="main-content" tabindex="-1" class="cbr_jumpTo"></a>
-  <!-- ASIDE CONTENT -->
-    <!-- ASIDE CONTENT -->
-  <div class="content_page">
-    <article class="basicContent">
-      <!-- CONTENT BEFORE -->
-            <aside id="content-before">
-          <div class="region region-content-before">
-    <div id="block-dartdbdownmessagetousers" class="block block-block-content block-block-content6b76590d-73ba-42b6-ad92-cab344255a92">
-  
-    
-      
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="alert alert-info">
-<b>DART Queries are Temporarily Unavailable</b>
-Performing system upgrade 2026-01-10.
- <br> <i>Message Time: January 10 2026 10:16:59.</i></div>
-</div>
-      
-  </div>
-<div id="block-dartdataalertmessagetousers" class="block block-block-content block-block-contente3f544a0-75dc-4206-94e8-0203f7d17110">
-  
-    
-      
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"></div>
-      
-  </div>
-
-  </div>
-
-      </aside>
-            <!-- CONTENT BEFORE -->
-
-      <!-- MAIN CONTENT -->
-        <div class="region region-content">
-    <div data-drupal-messages-fallback class="hidden"></div>
-<article data-history-node-id="876" role="article" about="/dart/wrapper" class="node node--type-cgi-wrapper node--view-mode-full">
-
-  
-    
-
-  
-  <div class="node__content">
-    
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
-
-<!-- START DART RESULTS -->
-<div class="d-print-none">
-<p class="small">
- <i class="bi bi-chevron-bar-left" aria-hidden="true"></i> <a href="/dart/query/adult_daily">query page</a>
-</p>
-<div class="alert alert-info">
-<h3>DART Queries are Temporarily Unavailable</h3>
-<p>
-Performing system upgrade 2026-01-10.
-</p>
-<p><i>Message Time: January 10 2026 10:16:59.</i></p>
-
-<!-- END DART RESULTS -->
-
-</div>
-      
-  </div>
-
-</article>
-
-  </div>
-
-      <!-- MAIN CONTENT -->
-
-      <!-- CONTENT AFTER -->
-            <!-- CONTENT AFTER -->
-    </article>
-  </div>
-</main>
-
-<footer>
-  <!-- FOOTER -->
-  <!-- FOOTER -->
-   <div class="region region-footer-cbr">
-    <div id="block-cbrfooternavnewsub-3" class="block block-block-content block-block-content12189374-fa0e-440e-8d46-273095457ffe">
-  
-    
-      
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="footerHome">
-
-<!--start media query footer-->
-	<div id="homeAltFooter">
-		<div class="container text-center">
-			<div class="row align-items-center">
-				<div class="footer_nav">
-				<ul>
-				<li><a href="/">Home</a></li>
-				<li><a href="/dart">Data</a></li>
-				<li><a href="/inseason">Predictions</a></li>
-				<li><a href="/status">Trends</a></li>
-				<li><a href="/analysis">Tools</a></li>
-				<li><a href="/papers">Publications</a></li>
-				<li><a href="/about">About</a></li>
-				</ul>
-				</div>
-			</div>
-		</div>
-	</div>
-<!--end media query footer-->
-				
-<!--display all-->
-<a id="contact-search" tabindex="-1" class="cbr_jumpTo"></a>
-	<div class="footerContact mt-1 mb-3 mr-1">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-auto align-self-center footer_nav">
-					Questions? Requests? Contact: <a href="mailto:web@cbr.washington.edu">web@cbr.washington.edu</a>
-				</div>
-				<div class="col-auto align-self-center footer_nav ml-1" id="searchbox">
-				<form action="/search/search_page" method="get" id="search-block-form" accept-charset="UTF-8" class="form">
-				<input title="Enter the terms you wish to search for." type="search" placeholder="Search CBR..." class="search-field" id="edit-keys" name="keys" value="" size="15" maxlength="128">
-				<button type="submit" class="search-button" id="edit-submit" value="" aria-label="Submit Search">
-				<img src="/cbr_img/search.png" class="search-img" alt="">
-				</button>
-				</form>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="footerUWunits mt-3">
-		<a href="/">Columbia Basin Research</a> &#8226; 
-		<a href="https://fish.uw.edu/">School of Aquatic &amp; Fishery Sciences</a> &#8226; 
-		<a href="https://environment.uw.edu/">College of the Environment</a> &#8226; 
-		<a href="https://www.washington.edu/">University of Washington</a>	
-	</div>
-
-</div>
-
-</div>
-      
-  </div>
-
-  </div>
- <!-- FOOTER -->
-
-<!-- MODAL CONTAINER -->
-<!-- MODAL CONTAINER -->
-
-
-  <!-- FOOTER -->
-</footer>
-
-  </div>
-
-          
-          <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/876","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"fname":"dbdown_1768084430_736.html","type":"html"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"button_text":"To Top","button_style":"image","button_animation":"fade","button_animation_speed":200,"scroll_distance":100,"scroll_speed":300,"user":{"uid":0,"permissionsHash":"5adddf94d4167108380eeae622a4669b56f8bee6120cd7af7be6276bfb44994e"}}</script>
-<script src="/sites/default/files/js/js__fTOraT3n5IyYSzklRxiQJvK1PhxCo_JAFRsvSE2cXQ.js"></script>
-</body>
-        </html>
+Project,Date,Chinook Run,Chin,Chin10Yr,JChin,JChin10Yr,Stlhd,Stlhd10Yr,WStlhd,WStlhd10Yr,Sock,Sock10Yr,Coho,Coho10Yr,JCoho,JCoho10Yr,Shad,Shad10Yr,LmpryDay,LmpryDay10Yr,BTrout,BTrout10Yr,Chum,Chum10Yr,Pink,TempC
+Willamette Falls,2025-01-01,,,,,,,7,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-02,,,,,,11,12,,,,,,1,,,,,,,,,,,,
+Willamette Falls,2025-01-03,,,,,,53,9,,,,,,1,,,,,,,,,,,,
+Willamette Falls,2025-01-04,,,,,,21,9,,,,,,1,,,,,,,,,,,,
+Willamette Falls,2025-01-05,,,,,,18,11,,,,,,1,,,,,,,,,,,,
+Willamette Falls,2025-01-06,,,,,,14,13,,,,,,1,,,,,,,,,,,,
+Willamette Falls,2025-01-07,,,,,,15,10,,,,,,1,,,,,,,,,,,,
+Willamette Falls,2025-01-08,,,,,,26,10,,,,,2,,,,,,,,,,,,,
+Willamette Falls,2025-01-09,,,,,,18,10,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-10,,,,,,39,7,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-11,,,,,,86,11,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-12,,,,,,89,17,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-13,,,,,,89,18,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-14,,,,,,59,14,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-15,,,,,,75,14,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-16,,,,,,21,12,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-17,,,,,,46,14,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-18,,,,,,51,18,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-19,,,,,,34,17,,,,,1,,,,,,,,,,,,,
+Willamette Falls,2025-01-20,,,,,,21,24,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-21,,,,,,12,27,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-22,,,,,,18,22,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-23,,,,,,8,26,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-24,,,,,,22,35,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-25,,,,,,6,32,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-26,,,,,,3,18,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-27,,,,,,6,17,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-28,,,,,,5,17,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-29,,,,,,7,15,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-30,,,,,,23,11,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-01-31,,,,,,9,16,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-01,,,,,,20,23,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-02,,,,,,54,28,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-03,,,,,,93,34,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-04,,,,,,67,29,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-05,,,,,,18,31,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-06,,,,,,14,42,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-07,,,,,,4,56,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-08,,,,,,11,50,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-09,,,,,,27,36,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-10,,,,,,17,30,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-11,,,,,,7,29,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-12,,,,,,6,33,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-13,,,,,,5,36,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-14,,,,,,,52,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-15,,,,,,1,38,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-16,,,,,,4,46,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-17,,,,,,23,45,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-18,,,,,,96,41,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-19,,,,,,208,42,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-20,,,,,,136,38,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-21,,,,,,82,33,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-22,,,,,,79,31,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-23,,,,,,119,33,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-24,,,,,,12,34,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-25,,,,,,,34,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-26,,,,,,1,34,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-27,,,,,,-2,33,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-28,,,,,,28,30,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-02-29,,,,,,,76,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-01,,,,,,59,21,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-02,,,,,,68,21,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-03,,,,,,83,25,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-04,,,,,,58,30,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-05,,,,,,43,27,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-06,,,1,,,30,38,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-07,,,,,,33,52,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-08,,,1,,,52,50,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-09,,,1,,,95,54,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-10,,,,,,105,47,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-11,,,1,,,83,43,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-12,,,,,,33,44,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-13,,,1,,,32,57,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-14,,,1,,,54,54,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-15,,,1,,,31,54,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-16,,,,,,21,62,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-17,,,,,,3,67,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-18,,,,,,2,68,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-19,,,1,,,4,61,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-20,,,1,,,32,61,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-21,,,1,,,27,65,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-22,,,2,,,4,64,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-23,,,3,,,,48,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-24,,,2,,,34,39,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-25,,,2,,,103,43,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-26,,,3,,,131,42,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-27,,,5,,,114,38,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-28,,,4,,,111,35,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-29,,,5,,,50,35,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-30,,,12,,,46,34,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-03-31,,,13,,,47,45,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-01,,,17,,,37,34,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-02,,,16,,,52,40,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-03,,,13,,,53,39,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-04,,2,19,,,104,41,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-05,,6,10,1,,91,32,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-06,,15,13,,,128,29,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-07,,24,13,,,83,31,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-08,,22,18,3,,95,34,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-09,,15,24,1,,91,27,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-10,,11,53,,,80,26,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-11,,16,75,,,72,31,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-12,,5,63,1,1,40,23,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-13,,44,58,4,1,54,20,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-14,,63,56,2,,66,27,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-15,,92,60,13,,67,29,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-16,,171,42,1,,54,29,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-17,,257,85,6,1,63,30,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-18,,274,124,9,3,72,44,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-19,,222,398,3,7,55,54,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-20,,265,365,2,9,45,56,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-21,,323,249,4,9,43,44,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-22,,207,297,5,3,16,49,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-23,,242,268,6,5,41,50,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-24,,352,244,4,7,64,46,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-25,,267,228,7,6,50,49,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-26,,246,265,3,7,40,47,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-27,,379,357,,15,30,48,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-28,,401,297,3,10,28,47,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-29,,370,296,4,12,36,36,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-04-30,,293,536,2,16,43,46,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-01,,236,312,4,10,29,40,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-02,,297,419,2,16,34,67,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-03,,347,429,4,18,23,68,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-04,,466,458,17,18,27,68,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-05,,357,552,13,21,41,49,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-06,,452,603,12,21,50,51,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-07,,383,424,13,22,37,47,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-08,,357,446,19,19,42,56,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-09,,516,375,4,19,47,53,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-10,,509,421,11,22,40,80,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-11,,460,434,14,21,49,74,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-12,,209,452,3,17,34,85,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-13,,198,505,10,22,27,99,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-14,,285,428,9,21,29,114,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-15,,169,464,10,28,27,96,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-16,,231,218,11,14,41,77,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-17,,285,250,4,15,45,78,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-18,,221,215,3,11,49,85,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-19,,206,286,8,13,31,86,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-20,,175,323,4,16,50,86,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-21,,268,504,13,26,49,87,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-22,,358,737,2,34,52,92,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-23,,419,610,22,34,45,97,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-24,,402,568,18,34,52,87,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-25,,533,461,27,24,49,77,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-26,,440,462,13,36,45,82,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-27,,363,442,10,33,34,88,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-28,,334,338,15,31,29,73,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-29,,299,340,15,21,56,85,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-30,,410,327,20,26,39,86,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-05-31,,451,314,26,22,36,84,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-01,,415,332,4,22,38,99,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-02,,354,279,13,20,60,95,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-03,,376,343,14,19,55,100,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-04,,481,379,15,24,73,82,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-05,,468,296,10,26,36,77,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-06,,683,294,26,15,34,95,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-07,,485,250,11,17,28,96,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-08,,410,272,2,14,29,77,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-09,,379,215,5,16,39,74,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-10,,331,207,1,15,23,70,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-11,,322,166,4,13,14,81,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-12,,274,196,3,12,16,89,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-13,,158,237,4,15,19,83,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-14,,109,279,2,17,8,98,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-15,,205,301,1,17,14,121,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-16,,257,308,4,18,40,116,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-17,,225,329,3,18,51,115,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-18,,273,356,3,20,45,116,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-19,,299,347,4,22,48,129,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-20,,386,382,11,19,58,146,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-21,,491,432,25,19,52,138,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-22,,710,381,23,14,99,128,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-23,,619,457,28,17,118,110,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-24,,613,453,7,21,81,90,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-25,,611,442,13,20,61,95,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-26,,657,337,4,22,92,77,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-27,,610,282,9,17,83,78,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-28,,350,264,3,16,62,78,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-29,,386,236,6,13,84,82,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-06-30,,331,216,3,16,59,92,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-01,,371,191,9,12,64,78,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-02,,392,198,,9,59,81,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-03,,261,221,3,9,37,92,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-04,,233,161,6,8,36,82,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-05,,196,170,3,11,10,73,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-06,,134,189,2,10,13,74,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-07,,161,220,1,9,12,72,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-08,,209,167,3,7,15,62,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-09,,153,165,28,9,26,70,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-10,,86,158,2,15,21,55,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-11,,42,157,1,13,6,50,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-12,,118,156,5,10,8,49,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-13,,68,133,,8,9,32,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-14,,39,110,,10,2,38,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-15,,39,110,2,9,2,49,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-16,,26,78,1,8,1,33,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-17,,1,60,1,5,,24,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-18,,1,48,1,6,1,24,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-19,,1,50,,6,,21,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-20,,2,33,,4,,17,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-21,,3,44,,4,,17,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-22,,4,47,,5,,16,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-23,,7,38,,3,,11,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-24,,32,39,2,4,1,20,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-25,,26,38,,3,,13,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-26,,43,26,3,3,4,8,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-27,,56,45,1,3,4,10,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-28,,60,46,8,3,11,8,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-29,,81,49,3,3,7,9,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-30,,88,21,,4,4,7,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-07-31,,51,17,1,1,2,4,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-08-01,,65,20,4,1,5,6,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-08-02,,86,25,2,2,14,4,,,,,4,,,,,,,,,,,,,
+Willamette Falls,2025-08-03,,82,20,9,1,6,3,,,,,2,,,,,,,,,,,,,
+Willamette Falls,2025-08-04,,61,12,1,4,6,4,,,,,1,,,,,,,,,,,,,
+Willamette Falls,2025-08-05,,61,7,2,2,10,1,,,,,4,,,,,,,,,,,,,
+Willamette Falls,2025-08-06,,73,7,1,1,15,2,,,,,6,,,,,,,,,,,,,
+Willamette Falls,2025-08-07,,62,6,11,1,11,3,,,,,9,,,,,,,,,,,,,
+Willamette Falls,2025-08-08,,156,7,4,2,18,3,,,,,13,,1,,,,,,,,,,,
+Willamette Falls,2025-08-09,,180,10,8,2,27,4,,,,,18,,7,,,,,,,,,,,
+Willamette Falls,2025-08-10,,116,12,4,2,42,3,,,,,53,,4,,,,,,,,,,,
+Willamette Falls,2025-08-11,,151,12,5,2,41,4,,,,,71,,2,,,,,,,,,,,
+Willamette Falls,2025-08-12,,116,23,24,3,21,5,,,,,45,,,,,,,,,,,,,
+Willamette Falls,2025-08-13,,94,17,5,1,16,6,,,,,32,,6,,,,,,,,,,,
+Willamette Falls,2025-08-14,,45,17,13,3,16,5,,,,,15,,1,,,,,,,,,,,
+Willamette Falls,2025-08-15,,13,14,3,2,4,4,,,,,4,,,,,,,,,,,,,
+Willamette Falls,2025-08-16,,10,20,,4,1,4,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-08-17,,12,18,2,3,1,4,,,,,2,,,,,,,,,,,,,
+Willamette Falls,2025-08-18,,1,21,,3,1,4,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-08-19,,18,16,4,2,4,6,,,,,2,,1,,,,,,,,,,,
+Willamette Falls,2025-08-20,,37,20,3,3,5,5,,,,,6,1,1,,,,,,,,,,,
+Willamette Falls,2025-08-21,,33,17,1,2,14,4,,,,,12,,5,,,,,,,,,,,
+Willamette Falls,2025-08-22,,45,16,4,2,17,4,,,,,18,1,1,,,,,,,,,,,
+Willamette Falls,2025-08-23,,39,20,5,2,11,4,,,,,34,1,,,,,,,,,,,,
+Willamette Falls,2025-08-24,,71,36,4,3,10,5,,,,,47,,1,,,,,,,,,,,
+Willamette Falls,2025-08-25,,23,52,5,3,10,5,,,,,44,1,2,,,,,,,,,,,
+Willamette Falls,2025-08-26,,27,39,4,4,5,9,,,,,29,1,4,,,,,,,,,,,
+Willamette Falls,2025-08-27,,24,34,5,5,3,8,,,,,16,2,,,,,,,,,,,,
+Willamette Falls,2025-08-28,,19,34,4,2,2,7,,,,,22,1,1,1,,,,,,,,,,
+Willamette Falls,2025-08-29,,29,46,7,6,2,10,,,,,9,5,4,2,,,,,,,,,,
+Willamette Falls,2025-08-30,,15,45,6,6,1,12,,,,,8,4,8,2,,,,,,,,,,
+Willamette Falls,2025-08-31,,20,33,7,3,2,11,,,,,6,4,5,3,,,,,,,,,,
+Willamette Falls,2025-09-01,,45,36,3,6,3,15,,,,,34,6,,2,,,,,,,,,,
+Willamette Falls,2025-09-02,,44,30,3,6,6,16,,,,,66,11,2,2,,,,,,,,,,
+Willamette Falls,2025-09-03,,30,37,3,10,4,18,,,,,26,9,5,3,,,,,,,,,,
+Willamette Falls,2025-09-04,,34,50,5,12,1,21,,,,,16,7,1,4,,,,,,,,,,
+Willamette Falls,2025-09-05,,37,30,10,5,6,11,,,,,14,18,1,6,,,,,,,,,,
+Willamette Falls,2025-09-06,,25,33,8,8,7,9,,,,,20,29,10,9,,,,,,,,,,
+Willamette Falls,2025-09-07,,40,36,4,5,8,12,,,,,22,71,15,15,,,,,,,,,,
+Willamette Falls,2025-09-08,,39,27,17,6,3,7,,,,,56,114,10,24,,,,,,,,,,
+Willamette Falls,2025-09-09,,28,38,1,8,6,16,,,,,87,105,17,35,,,,,,,,,,
+Willamette Falls,2025-09-10,,33,62,5,11,6,8,,,,,183,87,13,29,,,,,,,,,,
+Willamette Falls,2025-09-11,,20,30,2,7,4,7,,,,,142,144,25,52,,,,,,,,,,
+Willamette Falls,2025-09-12,,44,30,5,7,4,9,,,,,135,126,25,54,,,,,,,,,,
+Willamette Falls,2025-09-13,,31,37,10,7,10,8,,,,,136,170,37,54,,,,,,,,,,
+Willamette Falls,2025-09-14,,45,63,1,13,5,9,,,,,125,197,39,63,,,,,,,,,,
+Willamette Falls,2025-09-15,,43,65,4,12,8,5,,,,,161,215,47,64,,,,,,,,,,
+Willamette Falls,2025-09-16,,47,46,6,10,10,7,,,,,194,386,60,91,,,,,,,,,,
+Willamette Falls,2025-09-17,,36,40,3,7,20,6,,,,,240,409,102,121,,,,,,,,,,
+Willamette Falls,2025-09-18,,33,56,1,9,8,10,,,,,301,391,109,130,,,,,,,,,,
+Willamette Falls,2025-09-19,,19,73,1,10,8,12,,,,,451,392,153,126,,,,,,,,,,
+Willamette Falls,2025-09-20,,14,37,1,9,7,10,,,,,446,461,142,147,,,,,,,,,,
+Willamette Falls,2025-09-21,,9,65,2,15,9,8,,,,,544,532,177,179,,,,,,,,,,
+Willamette Falls,2025-09-22,,10,57,,9,5,6,,,,,827,548,207,202,,,,,,,,,,
+Willamette Falls,2025-09-23,,29,57,1,11,5,5,,,,,806,556,206,173,,,,,,,,,,
+Willamette Falls,2025-09-24,,4,55,,14,11,6,,,,,856,481,195,151,,,,,,,,,,
+Willamette Falls,2025-09-25,,1,50,2,8,14,3,,,,,662,411,183,144,,,,,,,,,,
+Willamette Falls,2025-09-26,,9,46,,8,3,4,,,,,704,601,181,160,,,,,,,,,,
+Willamette Falls,2025-09-27,,3,35,,6,3,3,,,,,865,567,197,143,,,,,,,,,,
+Willamette Falls,2025-09-28,,6,50,,11,7,4,,,,,723,558,178,149,,,,,,,,,,
+Willamette Falls,2025-09-29,,3,47,,10,7,4,,,,,496,521,139,122,,,,,,,,,,
+Willamette Falls,2025-09-30,,2,39,,7,2,4,,,,,482,491,117,113,,,,,,,,,,
+Willamette Falls,2025-10-01,,3,34,,7,9,5,,,,,586,421,159,103,,,,,,,,,,
+Willamette Falls,2025-10-02,,6,32,,6,10,5,,,,,511,446,131,122,,,,,,,,,,
+Willamette Falls,2025-10-03,,5,27,,5,6,3,,,,,686,388,110,98,,,,,,,,,,
+Willamette Falls,2025-10-04,,2,31,,9,6,3,,,,,757,350,152,104,,,,,,,,,,
+Willamette Falls,2025-10-05,,8,31,,8,4,2,,,,,1042,268,102,91,,,,,,,,,,
+Willamette Falls,2025-10-06,,3,134,,40,3,12,,,,,1182,536,131,168,,,,,,,,,,
+Willamette Falls,2025-10-07,,2,92,,32,5,11,,,,,738,462,83,136,,,,,,,,,,
+Willamette Falls,2025-10-08,,1,39,,12,,8,,,,,488,286,72,86,,,,,,,,,,
+Willamette Falls,2025-10-09,,2,23,1,5,3,6,,,,,384,225,48,78,,,,,,,,,,
+Willamette Falls,2025-10-10,,1,19,,4,2,5,,,,,358,251,36,86,,,,,,,,,,
+Willamette Falls,2025-10-11,,1,15,,2,2,5,,,,,353,220,50,75,,,,,,,,,,
+Willamette Falls,2025-10-12,,5,19,1,4,2,4,,,,,340,273,33,75,,,,,,,,,,
+Willamette Falls,2025-10-13,,9,33,,7,11,8,,,,,407,229,49,71,,,,,,,,,,
+Willamette Falls,2025-10-14,,5,31,1,9,4,7,,,,,380,200,56,50,,,,,,,,,,
+Willamette Falls,2025-10-15,,3,12,,3,3,3,,,,,292,165,32,41,,,,,,,,,,
+Willamette Falls,2025-10-16,,2,10,,1,4,3,,,,,275,125,49,25,,,,,,,,,,
+Willamette Falls,2025-10-17,,,8,,3,7,5,,,,,249,112,26,21,,,,,,,,,,
+Willamette Falls,2025-10-18,,2,9,,2,7,1,,,,,226,104,28,16,,,,,,,,,,
+Willamette Falls,2025-10-19,,1,8,,1,13,3,,,,,187,116,18,24,,,,,,,,,,
+Willamette Falls,2025-10-20,,3,9,,1,5,2,,,,,206,117,34,19,,,,,,,,,,
+Willamette Falls,2025-10-21,,1,10,2,2,1,5,,,,,168,112,18,21,,,,,,,,,,
+Willamette Falls,2025-10-22,,2,16,,4,6,3,,,,,139,140,16,27,,,,,,,,,,
+Willamette Falls,2025-10-23,,,4,,1,7,2,,,,,133,95,11,16,,,,,,,,,,
+Willamette Falls,2025-10-24,,2,3,,2,6,2,,,,,98,91,7,16,,,,,,,,,,
+Willamette Falls,2025-10-25,,3,9,,2,5,4,,,,,126,95,7,26,,,,,,,,,,
+Willamette Falls,2025-10-26,,1,3,,1,9,2,,,,,256,59,12,17,,,,,,,,,,
+Willamette Falls,2025-10-27,,2,3,,1,8,1,,,,,294,48,42,17,,,,,,,,,,
+Willamette Falls,2025-10-28,,1,2,,,4,1,,,,,254,38,33,19,,,,,,,,,,
+Willamette Falls,2025-10-29,,,3,,,6,2,,,,,172,51,20,17,,,,,,,,,,
+Willamette Falls,2025-10-30,,,2,,,3,3,,,,,105,63,31,7,,,,,,,,,,
+Willamette Falls,2025-10-31,,1,1,,1,2,2,,,,,59,42,13,7,,,,,,,,,,
+Willamette Falls,2025-11-01,,1,1,,,2,2,,,,,71,34,13,8,,,,,,,,,,
+Willamette Falls,2025-11-02,,,1,,,5,2,,,,,106,45,8,10,,,,,,,,,,
+Willamette Falls,2025-11-03,,,,,,2,3,,,,,69,41,14,8,,,,,,,,,,
+Willamette Falls,2025-11-04,,,,,,,3,,,,,51,54,14,8,,,,,,,,,,
+Willamette Falls,2025-11-05,,,,,,2,2,,,,,43,63,1,9,,,,,,,,,,
+Willamette Falls,2025-11-06,,,1,,,3,2,,,,,54,59,8,13,,,,,,,,,,
+Willamette Falls,2025-11-07,,,,,,2,4,,,,,52,41,5,8,,,,,,,,,,
+Willamette Falls,2025-11-08,,,,,,2,2,,,,,27,25,2,7,,,,,,,,,,
+Willamette Falls,2025-11-09,,,,,,5,2,,,,,37,23,15,3,,,,,,,,,,
+Willamette Falls,2025-11-10,,,,,,4,2,,,,,26,14,7,2,,,,,,,,,,
+Willamette Falls,2025-11-11,,,,,,3,3,,,,,12,8,4,2,,,,,,,,,,
+Willamette Falls,2025-11-12,,,,,,4,3,,,,,13,19,4,3,,,,,,,,,,
+Willamette Falls,2025-11-13,,1,,,,4,1,,,,,9,13,1,4,,,,,,,,,,
+Willamette Falls,2025-11-14,,,,,,3,1,,,,,19,25,5,8,,,,,,,,,,
+Willamette Falls,2025-11-15,,,,,,5,2,,,,,23,28,4,5,,,,,,,,,,
+Willamette Falls,2025-11-16,,,,,,7,1,,,,,8,23,4,6,,,,,,,,,,
+Willamette Falls,2025-11-17,,1,,,,5,2,,,,,7,21,5,5,,,,,,,,,,
+Willamette Falls,2025-11-18,,,,,,5,3,,,,,7,24,4,4,,,,,,,,,,
+Willamette Falls,2025-11-19,,,,,,10,1,,,,,3,14,,3,,,,,,,,,,
+Willamette Falls,2025-11-20,,,,,,7,1,,,,,4,8,-1,4,,,,,,,,,,
+Willamette Falls,2025-11-21,,,,,,4,3,,,,,7,9,,2,,,,,,,,,,
+Willamette Falls,2025-11-22,,,,,,5,2,,,,,3,8,,3,,,,,,,,,,
+Willamette Falls,2025-11-23,,,,,,4,2,,,,,4,5,,2,,,,,,,,,,
+Willamette Falls,2025-11-24,,,,,,11,2,,,,,,5,,2,,,,,,,,,,
+Willamette Falls,2025-11-25,,,,,,6,3,,,,,2,4,2,1,,,,,,,,,,
+Willamette Falls,2025-11-26,,,,,,13,3,,,,,4,5,1,1,,,,,,,,,,
+Willamette Falls,2025-11-27,,,,,,17,3,,,,,8,4,1,1,,,,,,,,,,
+Willamette Falls,2025-11-28,,,,,,19,3,,,,,4,18,4,3,,,,,,,,,,
+Willamette Falls,2025-11-29,,,,,,19,4,,,,,4,15,1,5,,,,,,,,,,
+Willamette Falls,2025-11-30,,,,,,22,3,,,,,8,7,,3,,,,,,,,,,
+Willamette Falls,2025-12-01,,,,,,13,3,,,,,,3,1,1,,,,,,,,,,
+Willamette Falls,2025-12-02,,,,,,15,3,,,,,3,2,,1,,,,,,,,,,
+Willamette Falls,2025-12-03,,,,,,12,2,,,,,2,3,,1,,,,,,,,,,
+Willamette Falls,2025-12-04,,,,,,7,2,,,,,,3,,1,,,,,,,,,,
+Willamette Falls,2025-12-05,,,,,,10,1,,,,,-1,1,2,,,,,,,,,,,
+Willamette Falls,2025-12-06,,,,,,31,3,,,,,5,2,4,,,,,,,,,,,
+Willamette Falls,2025-12-07,,,,,,22,2,,,,,1,2,1,,,,,,,,,,,
+Willamette Falls,2025-12-08,,,,,,18,3,,,,,9,1,,,,,,,,,,,,
+Willamette Falls,2025-12-09,,,,,,9,3,,,,,5,1,1,,,,,,,,,,,
+Willamette Falls,2025-12-10,,,,,,,4,,,,,,2,,,,,,,,,,,,
+Willamette Falls,2025-12-11,,,,,,,6,,,,,-1,1,,,,,,,,,,,,
+Willamette Falls,2025-12-12,,,,,,4,3,,,,,-1,3,,2,,,,,,,,,,
+Willamette Falls,2025-12-13,,,,,,11,4,,,,,,6,,2,,,,,,,,,,
+Willamette Falls,2025-12-14,,,,,,33,4,,,,,1,3,,1,,,,,,,,,,
+Willamette Falls,2025-12-15,,,,,,44,4,,,,,2,3,,1,,,,,,,,,,
+Willamette Falls,2025-12-16,,,,,,44,6,,,,,5,3,1,1,,,,,,,,,,
+Willamette Falls,2025-12-17,,,,,,43,7,,,,,,4,,1,,,,,,,,,,
+Willamette Falls,2025-12-18,,,,,,21,7,,,,,,5,,1,,,,,,,,,,
+Willamette Falls,2025-12-19,,,,,,1,6,,,,,,3,,1,,,,,,,,,,
+Willamette Falls,2025-12-20,,,,,,1,7,,,,,,3,,2,,,,,,,,,,
+Willamette Falls,2025-12-21,,,,,,,8,,,,,,8,,1,,,,,,,,,,
+Willamette Falls,2025-12-22,,,,,,,6,,,,,,4,,1,,,,,,,,,,
+Willamette Falls,2025-12-23,,,,,,2,5,,,,,,4,,1,,,,,,,,,,
+Willamette Falls,2025-12-24,,,,,,1,10,,,,,,3,,1,,,,,,,,,,
+Willamette Falls,2025-12-25,,,,,,3,8,,,,,,3,,1,,,,,,,,,,
+Willamette Falls,2025-12-26,,,,,,25,6,,,,,,1,,,,,,,,,,,,
+Willamette Falls,2025-12-27,,,,,,34,4,,,,,,1,,,,,,,,,,,,
+Willamette Falls,2025-12-28,,,,,,52,6,,,,,,1,,,,,,,,,,,,
+Willamette Falls,2025-12-29,,,,,,83,6,,,,,,,,,,,,,,,,,,
+Willamette Falls,2025-12-30,,,,,,,8,,,,,,1,,1,,,,,,,,,,
+Willamette Falls,2025-12-31,,,,,,,7,,,,,,,,,,,,,,,,,,
+Notes:
+Columbia River DART
+2025 Adult Passage Daily Counts at Willamette Falls
+with 10 Year Daily Averages (2015 - 2024)
+2025-01-01 to 2025-12-31
+Generated 10 Jan 2026 16:43:36 PST. DART Adult Passage Daily Counts www.cbr.washington.edu/dart/query/adult_daily.
+Data Courtesy of Oregon Department of Fish & Wildlife.
+Willamette Falls Video Counting: Fish counting through Willamette Falls fishway occurs at the main 
+viewing window. Video cameras and time lapsed video recorders are used to record fish passage 24 hrs/day; 365 days/
+year. The ODFW schedule for reviewing the tapes is Monday through Friday. It takes most of the day to accurately 
+review one day of fish passage on tape when the counts are high.
+Temperature (TempC) is reported in degrees Celsius. Source of temperature  data varies by project. At most projects; it is scrollcase or water quality temperature data. At Wells; it is the Fishway Attraction Flow temperature which is pumped from tailrace.
+Calculating the 10 year averages: The ten year averages are calculated by DART for each calendar 
+day of data at each project. For the current year and any given project/month/day; the data is summed from the 
+previous 10 years and divided by the number of non-null data points available during that 10 year span.
+Steelhead Counts: The Steelhead parameter includes both hatchery and wild counts. Prior to 1995 
+wild steelhead data was not published on a daily basis. The Steelhead-Wild parameter is a subset of the total 
+steelhead and may include unmarked hatchery fish.
+Chinook Run Dates: Chinook runs (referring to the season when adults migrate upstream) are based on run schedules by project as reported by the U.S. Army Corps of Engineers; Yakima Klickitat Fisheries Project and Oregon Department of Fish and Wildlife.
+"DART Data Citation. Columbia River DART, Columbia Basin Research, University of Washington. (2026). Adult Passage Daily Counts. Available from https://www.cbr.washington.edu/dart/query/adult_daily."
