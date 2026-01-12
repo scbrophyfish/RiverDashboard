@@ -27778,3 +27778,5 @@
 2026-01-12 14:06:54.331163 - Willamette fish count CSV columns: ['Project', 'Date', 'Chinook Run', 'Chin', 'Chin10Yr', 'JChin', 'JChin10Yr', 'Stlhd', 'Stlhd10Yr', 'WStlhd', 'WStlhd10Yr', 'Sock', 'Sock10Yr', 'Coho', 'Coho10Yr', 'JCoho', 'JCoho10Yr', 'Shad', 'Shad10Yr', 'LmpryDay', 'LmpryDay10Yr', 'BTrout', 'BTrout10Yr', 'Chum', 'Chum10Yr', 'Pink', 'TempC']
 2026-01-12 14:06:54.333168 - Error fetching Willamette fish count: ['Chinook 10YearAvg']
 2026-01-12 14:08:04.214696 - HTML file has been generated successfully.
+2026-01-12 14:08:06.828032 - Changes pushed to GitHub successfully.
+2026-01-12 14:24:17.920091 - HTML file has been generated successfully.
