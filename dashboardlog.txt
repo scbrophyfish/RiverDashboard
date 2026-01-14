@@ -28185,3 +28185,6 @@
 2026-01-14 09:41:57.870370 - HTML file has been generated successfully.
 2026-01-14 09:42:00.299427 - Changes pushed to GitHub successfully.
 2026-01-14 09:58:10.711523 - HTML file has been generated successfully.
+2026-01-14 09:58:13.204473 - Changes pushed to GitHub successfully.
+2026-01-14 10:15:18.001134 - Error fetching Willamette data: time-weighted interpolation only works on Series or DataFrames with a DatetimeIndex
+2026-01-14 10:16:38.485044 - HTML file has been generated successfully.
