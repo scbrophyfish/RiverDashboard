@@ -29616,3 +29616,10 @@
 2026-01-20 20:44:53.747086 - HTML file has been generated successfully.
 2026-01-20 20:44:56.123818 - Changes pushed to GitHub successfully.
 2026-01-20 21:01:06.424951 - HTML file has been generated successfully.
+2026-01-20 21:01:08.925231 - Changes pushed to GitHub successfully.
+2026-01-20 21:16:10.486981 - Fish count CSV columns: ['Project', 'Date', 'Chinook Run', 'Chin', 'Chin10Yr', 'JChin', 'JChin10Yr', 'Stlhd', 'Stlhd10Yr', 'WStlhd', 'WStlhd10Yr', 'Sock', 'Sock10Yr', 'Coho', 'Coho10Yr', 'JCoho', 'JCoho10Yr', 'Shad', 'Shad10Yr', 'LmpryDay', 'LmpryNight', 'LmpryLPS', 'LmpryDay10Yr', 'BTrout', 'BTrout10Yr', 'Chum', 'Chum10Yr', 'Pink', 'TempC']
+2026-01-20 21:16:10.486981 - Error fetching Columbia fish count: ['Chinook 10YearAvg']
+2026-01-20 21:16:12.264669 - Willamette fish count CSV columns: ['Project', 'Date', 'Chinook Run', 'Chin', 'Chin10Yr', 'JChin', 'JChin10Yr', 'Stlhd', 'Stlhd10Yr', 'WStlhd', 'WStlhd10Yr', 'Sock', 'Sock10Yr', 'Coho', 'Coho10Yr', 'JCoho', 'JCoho10Yr', 'Shad', 'Shad10Yr', 'LmpryDay', 'LmpryDay10Yr', 'BTrout', 'BTrout10Yr', 'Chum', 'Chum10Yr', 'Pink', 'TempC']
+2026-01-20 21:16:12.264669 - Error fetching Willamette fish count: ['Chinook 10YearAvg']
+2026-01-20 21:16:54.422634 - Error fetching Willamette data: HTTPSConnectionPool(host='or.water.usgs.gov', port=443): Max retries exceeded with url: /will_morrison/monitors/will_morrison_tbdy.dat (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000023D551CA410>, 'Connection to or.water.usgs.gov timed out. (connect timeout=None)'))
+2026-01-20 21:18:14.166617 - HTML file has been generated successfully.
