@@ -29878,3 +29878,7 @@
 2026-01-22 00:54:24.545073 - HTML file has been generated successfully.
 2026-01-22 00:54:27.058677 - Changes pushed to GitHub successfully.
 2026-01-22 01:10:34.830388 - HTML file has been generated successfully.
+2026-01-22 01:10:37.325381 - Changes pushed to GitHub successfully.
+2026-01-22 01:25:39.807576 - Error fetching Columbia fish count: HTTPSConnectionPool(host='www.cbr.washington.edu', port=443): Max retries exceeded with url: /dart/cs/php/rpt/adult_daily.php?sc=1&outputFormat=csv&year=2025&proj=BON&span=no&startdate=1%2F1&enddate=12%2F31&run=&syear=2025&eyear=2025&avg=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023D55278D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-22 01:25:41.924674 - Error fetching Willamette fish count: HTTPSConnectionPool(host='www.cbr.washington.edu', port=443): Max retries exceeded with url: /dart/cs/php/rpt/adult_daily.php?sc=1&outputFormat=csv&year=2025&proj=WFF&span=no&startdate=1%2F1&enddate=12%2F31&run=&syear=2025&eyear=2025&avg=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023D55313310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-22 01:26:49.960165 - HTML file has been generated successfully.
