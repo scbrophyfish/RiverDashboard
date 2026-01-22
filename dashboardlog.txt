@@ -29843,3 +29843,6 @@
 2026-01-21 21:04:01.187409 - Willamette fish count CSV columns: ['Project', 'Date', 'Chinook Run', 'Chin', 'Chin10Yr', 'JChin', 'JChin10Yr', 'Stlhd', 'Stlhd10Yr', 'WStlhd', 'WStlhd10Yr', 'Sock', 'Sock10Yr', 'Coho', 'Coho10Yr', 'JCoho', 'JCoho10Yr', 'Shad', 'Shad10Yr', 'LmpryDay', 'LmpryDay10Yr', 'BTrout', 'BTrout10Yr', 'Chum', 'Chum10Yr', 'Pink', 'TempC']
 2026-01-21 21:04:01.189413 - Error fetching Willamette fish count: ['Chinook 10YearAvg']
 2026-01-21 21:05:10.416305 - HTML file has been generated successfully.
+2026-01-21 21:05:12.852449 - Changes pushed to GitHub successfully.
+2026-01-21 21:22:18.265771 - Error fetching Willamette data: time-weighted interpolation only works on Series or DataFrames with a DatetimeIndex
+2026-01-21 21:23:38.198370 - HTML file has been generated successfully.
