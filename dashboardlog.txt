@@ -31069,3 +31069,5 @@
 2026-01-27 09:21:19.380116 - Error fetching Willamette data: HTTPSConnectionPool(host='or.water.usgs.gov', port=443): Max retries exceeded with url: /will_morrison/monitors/will_morrison_tbdy.dat (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023D554D8250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
 2026-01-27 09:21:52.604263 - Error fetching Willamette data: HTTPSConnectionPool(host='or.water.usgs.gov', port=443): Max retries exceeded with url: /will_morrison/monitors/will_morrison_tbdy.dat (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023D570F0210>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
 2026-01-27 09:22:04.164827 - Error during HTML generation: 'NoneType' object is not subscriptable
+2026-01-27 09:22:06.429741 - Changes pushed to GitHub successfully.
+2026-01-27 09:38:16.038932 - HTML file has been generated successfully.
