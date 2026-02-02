@@ -32300,3 +32300,9 @@
 2026-02-01 22:42:12.217925 - HTML file has been generated successfully.
 2026-02-01 22:42:15.401333 - Changes pushed to GitHub successfully.
 2026-02-01 22:58:24.760270 - HTML file has been generated successfully.
+2026-02-01 22:58:27.735057 - Changes pushed to GitHub successfully.
+2026-02-01 23:13:29.375647 - Fish count CSV columns: ['Project', 'Date', 'Chinook Run', 'Chin', 'Chin10Yr', 'JChin', 'JChin10Yr', 'Stlhd', 'Stlhd10Yr', 'WStlhd', 'WStlhd10Yr', 'Sock', 'Sock10Yr', 'Coho', 'Coho10Yr', 'JCoho', 'JCoho10Yr', 'Shad', 'Shad10Yr', 'LmpryDay', 'LmpryNight', 'LmpryLPS', 'LmpryDay10Yr', 'BTrout', 'BTrout10Yr', 'Chum', 'Chum10Yr', 'Pink', 'TempC']
+2026-02-01 23:13:29.377651 - Error fetching Columbia fish count: ['Chinook 10YearAvg']
+2026-02-01 23:13:30.991248 - Willamette fish count CSV columns: ['Project', 'Date', 'Chinook Run', 'Chin', 'Chin10Yr', 'JChin', 'JChin10Yr', 'Stlhd', 'Stlhd10Yr', 'WStlhd', 'WStlhd10Yr', 'Sock', 'Sock10Yr', 'Coho', 'Coho10Yr', 'JCoho', 'JCoho10Yr', 'Shad', 'Shad10Yr', 'LmpryDay', 'LmpryDay10Yr', 'BTrout', 'BTrout10Yr', 'Chum', 'Chum10Yr', 'Pink', 'TempC']
+2026-02-01 23:13:30.995255 - Error fetching Willamette fish count: ['Chinook 10YearAvg']
+2026-02-01 23:14:39.196228 - HTML file has been generated successfully.
